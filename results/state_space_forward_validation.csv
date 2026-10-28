@@ -1,0 +1,561 @@
+MouseID,model,n_train,n_test,forward_mse,forward_weighted_mse
+L10_20200310 - Sucrose preference test LD.xlsx,local_level_state_space,6,2,0.0603095250575761,0.055448802331286386
+L10_20200310 - Sucrose preference test LD.xlsx,constant,6,2,0.06047152553254813,0.05505437810366753
+L10_20200310 - Sucrose preference test LD.xlsx,linear_drift,6,2,0.06261462933951634,0.05407966940549156
+L10_20200310 - Sucrose preference test LD.xlsx,24h_harmonic,6,2,0.05819680403006358,0.04977936957548
+L10_20200403 - sucrose preference test Female DD.xlsx,local_level_state_space,6,2,0.046533463107673464,0.05108639549422056
+L10_20200403 - sucrose preference test Female DD.xlsx,constant,6,2,0.0359935379857104,0.03984957196449233
+L10_20200403 - sucrose preference test Female DD.xlsx,linear_drift,6,2,0.07597043763093737,0.08142148712122907
+L10_20200403 - sucrose preference test Female DD.xlsx,24h_harmonic,6,2,0.013349112402837308,0.012379282864548804
+L10_20200421 - sucrose preference test Male DD.xlsx,local_level_state_space,6,2,0.14846795209437358,0.11431985893364387
+L10_20200421 - sucrose preference test Male DD.xlsx,constant,6,2,0.14053399481593584,0.10843388631271074
+L10_20200421 - sucrose preference test Male DD.xlsx,linear_drift,6,2,0.16055555555554843,0.1235042735042678
+L10_20200421 - sucrose preference test Male DD.xlsx,24h_harmonic,6,2,0.14174374816143778,0.10983468850892933
+L10_20200505 - sucrose preference test PA .xlsx,local_level_state_space,6,2,0.0020852849020060187,0.0022851084733102657
+L10_20200505 - sucrose preference test PA .xlsx,constant,6,2,0.002293884198795076,0.002519974205412774
+L10_20200505 - sucrose preference test PA .xlsx,linear_drift,6,2,0.005329059287410035,0.004992371881580829
+L10_20200505 - sucrose preference test PA .xlsx,24h_harmonic,6,2,0.010479500319995028,0.009434854149931844
+L10_20200609 - sucrose preference test LD .xlsx,local_level_state_space,6,2,0.0009379254708689191,0.0008952774538293343
+L10_20200609 - sucrose preference test LD .xlsx,constant,6,2,0.000929610466644251,0.0008895077085415648
+L10_20200609 - sucrose preference test LD .xlsx,linear_drift,6,2,0.001956571221466377,0.0017897275975938493
+L10_20200609 - sucrose preference test LD .xlsx,24h_harmonic,6,2,0.03470736520031587,0.03340169090666712
+L11_20200521 - sucrose preference test LD .xlsx,local_level_state_space,6,2,0.0124857989333918,0.012632890031790888
+L11_20200521 - sucrose preference test LD .xlsx,constant,6,2,0.014093851022251249,0.014250834254476489
+L11_20200521 - sucrose preference test LD .xlsx,linear_drift,6,2,0.01135252238375403,0.011499761830623262
+L11_20200521 - sucrose preference test LD .xlsx,24h_harmonic,6,2,0.02745146492974475,0.027536459838314112
+L11_20200521 - sucrose preference test PA .xlsx,local_level_state_space,6,2,0.026319089815397614,0.030220258865289323
+L11_20200521 - sucrose preference test PA .xlsx,constant,6,2,0.004039933115763591,0.0032912396230253063
+L11_20200521 - sucrose preference test PA .xlsx,linear_drift,6,2,0.005262836886032002,0.0043500579866077235
+L11_20200521 - sucrose preference test PA .xlsx,24h_harmonic,6,2,0.10437719254653849,0.10845006481813059
+L11_20200730 - saccharine preference test AB .xlsx,local_level_state_space,6,2,0.04903924497769886,0.05344263033923209
+L11_20200730 - saccharine preference test AB .xlsx,constant,6,2,0.033431684551995154,0.03700237916403714
+L11_20200730 - saccharine preference test AB .xlsx,linear_drift,6,2,0.014973995386471511,0.016984464299285015
+L11_20200730 - saccharine preference test AB .xlsx,24h_harmonic,6,2,0.021581543384559945,0.02473376206833537
+L11_20200909 - saccharine preference test LD.xlsx,local_level_state_space,6,2,0.022501190374195998,0.018552460104786103
+L11_20200909 - saccharine preference test LD.xlsx,constant,6,2,0.0031179745237998524,0.0021654764703537594
+L11_20200909 - saccharine preference test LD.xlsx,linear_drift,6,2,0.006192425161150985,0.00452988627249419
+L11_20200909 - saccharine preference test LD.xlsx,24h_harmonic,6,2,0.006574473421354081,0.008329708921547148
+L12_20200521 - sucrose preference test LD .xlsx,local_level_state_space,6,2,0.007182912048720789,0.007265609346344303
+L12_20200521 - sucrose preference test LD .xlsx,constant,6,2,0.008091070535303668,0.008525107598840152
+L12_20200521 - sucrose preference test LD .xlsx,linear_drift,6,2,0.025029285571330783,0.023530868020914236
+L12_20200521 - sucrose preference test LD .xlsx,24h_harmonic,6,2,0.0395220534503463,0.04261134222433945
+L12_20200521 - sucrose preference test PA .xlsx,local_level_state_space,6,2,0.015000678060890966,0.017493040493764905
+L12_20200521 - sucrose preference test PA .xlsx,constant,6,2,0.014955044178732923,0.017439163079872474
+L12_20200521 - sucrose preference test PA .xlsx,linear_drift,6,2,0.09790822557146033,0.1093784639461543
+L12_20200521 - sucrose preference test PA .xlsx,24h_harmonic,6,2,0.0019762906738531295,0.0022889944902408643
+L12_20200730 - saccharine preference test AB .xlsx,local_level_state_space,6,2,0.013766127458584246,0.013854756304210144
+L12_20200730 - saccharine preference test AB .xlsx,constant,6,2,0.013455781636981017,0.013545422444550719
+L12_20200730 - saccharine preference test AB .xlsx,linear_drift,6,2,0.0021559854200425303,0.002044054689751909
+L12_20200730 - saccharine preference test AB .xlsx,24h_harmonic,6,2,0.006141586040983412,0.0066238020755799015
+L12_20200909 - saccharine preference test LD.xlsx,local_level_state_space,6,2,0.0057046048738308335,0.006104327950925985
+L12_20200909 - saccharine preference test LD.xlsx,constant,6,2,0.007518647536624673,0.00801358171662092
+L12_20200909 - saccharine preference test LD.xlsx,linear_drift,6,2,0.0001838095434148248,0.00020827306124065125
+L12_20200909 - saccharine preference test LD.xlsx,24h_harmonic,6,2,0.004805025019250401,0.005781694093024608
+L13_20200521 - sucrose preference test LD .xlsx,local_level_state_space,6,2,0.027297532875759745,0.022581518738215633
+L13_20200521 - sucrose preference test LD .xlsx,constant,6,2,0.010481241215536846,0.008283500704531235
+L13_20200521 - sucrose preference test LD .xlsx,linear_drift,6,2,0.0648459597489954,0.05951661953018836
+L13_20200521 - sucrose preference test LD .xlsx,24h_harmonic,6,2,0.01601689205117302,0.014710301051475114
+L13_20200521 - sucrose preference test PA .xlsx,local_level_state_space,6,2,0.022881472078146236,0.024878292318342578
+L13_20200521 - sucrose preference test PA .xlsx,constant,6,2,0.018983731812726994,0.02079524413238514
+L13_20200521 - sucrose preference test PA .xlsx,linear_drift,6,2,0.02024900287281075,0.02208083050185844
+L13_20200521 - sucrose preference test PA .xlsx,24h_harmonic,6,2,0.0035390943679737144,0.0029194129435806313
+L13_20200730 - saccharine preference test AB .xlsx,local_level_state_space,6,2,0.07444698367736566,0.07957902240327977
+L13_20200730 - saccharine preference test AB .xlsx,constant,6,2,0.007913882734670545,0.009340916920477177
+L13_20200730 - saccharine preference test AB .xlsx,linear_drift,6,2,0.05994773290310709,0.05912879837433095
+L13_20200730 - saccharine preference test AB .xlsx,24h_harmonic,6,2,0.04578543373772005,0.05362872503774016
+L13_20200909 - saccharine preference test LD.xlsx,local_level_state_space,6,2,0.025937443899878315,0.027669426941537987
+L13_20200909 - saccharine preference test LD.xlsx,constant,6,2,0.026234755406856186,0.02315800373137232
+L13_20200909 - saccharine preference test LD.xlsx,linear_drift,6,2,0.030424278204922387,0.018662929791364687
+L13_20200909 - saccharine preference test LD.xlsx,24h_harmonic,6,2,0.030477066715249135,0.039257818708893506
+L14_20200521 - sucrose preference test LD .xlsx,local_level_state_space,6,2,0.017864119574863214,0.014799803958415108
+L14_20200521 - sucrose preference test LD .xlsx,constant,6,2,0.01914700096215883,0.015962992447216547
+L14_20200521 - sucrose preference test LD .xlsx,linear_drift,6,2,0.020393477473863348,0.017147732547397376
+L14_20200521 - sucrose preference test LD .xlsx,24h_harmonic,6,2,0.05597462178843753,0.05173498185234134
+L14_20200521 - sucrose preference test PA .xlsx,local_level_state_space,6,2,0.000989150399975245,0.0008436455201667923
+L14_20200521 - sucrose preference test PA .xlsx,constant,6,2,0.0010044415014444324,0.000850642972108409
+L14_20200521 - sucrose preference test PA .xlsx,linear_drift,6,2,0.0021228385441172653,0.0016614761000542406
+L14_20200521 - sucrose preference test PA .xlsx,24h_harmonic,6,2,0.0006651574357818646,0.0005329598863429857
+L14_20200730 - saccharine preference test AB .xlsx,local_level_state_space,6,2,0.02216308080513905,0.02576918653049478
+L14_20200730 - saccharine preference test AB .xlsx,constant,6,2,0.010208764607578894,0.008140556995617687
+L14_20200730 - saccharine preference test AB .xlsx,linear_drift,6,2,0.013444009496542024,0.016389474316316963
+L14_20200730 - saccharine preference test AB .xlsx,24h_harmonic,6,2,0.009801872118143441,0.010366053447524443
+L14_20200909 - saccharine preference test LD.xlsx,local_level_state_space,6,2,0.005184030095966174,0.006337546763277819
+L14_20200909 - saccharine preference test LD.xlsx,constant,6,2,0.029602404705884634,0.021044960191512148
+L14_20200909 - saccharine preference test LD.xlsx,linear_drift,6,2,0.03546010757115295,0.049040209255950006
+L14_20200909 - saccharine preference test LD.xlsx,24h_harmonic,6,2,0.016756392523053262,0.017368188690600087
+L15_20200521 - sucrose preference test LD .xlsx,local_level_state_space,6,2,0.006913698948958167,0.007196847213728818
+L15_20200521 - sucrose preference test LD .xlsx,constant,6,2,0.012175041133552514,0.012551558069843564
+L15_20200521 - sucrose preference test LD .xlsx,linear_drift,6,2,0.0070686242042501185,0.007222762624919338
+L15_20200521 - sucrose preference test LD .xlsx,24h_harmonic,6,2,0.09116505216649132,0.09705648190427714
+L15_20200521 - sucrose preference test PA .xlsx,local_level_state_space,6,2,0.0040278426410087186,0.004087027828166129
+L15_20200521 - sucrose preference test PA .xlsx,constant,6,2,0.00457313800145492,0.004708734734597702
+L15_20200521 - sucrose preference test PA .xlsx,linear_drift,6,2,0.017534800824627453,0.01709244502806384
+L15_20200521 - sucrose preference test PA .xlsx,24h_harmonic,6,2,0.04444084908156534,0.04602047597058439
+L15_20200730 - saccharine preference test AB .xlsx,local_level_state_space,6,2,0.0013911101166012405,0.0014567161416511128
+L15_20200730 - saccharine preference test AB .xlsx,constant,6,2,0.0011194851796162816,0.001175858541959146
+L15_20200730 - saccharine preference test AB .xlsx,linear_drift,6,2,0.0005204100254078577,0.0005483084430341745
+L15_20200730 - saccharine preference test AB .xlsx,24h_harmonic,6,2,0.0025499834113655957,0.002424652039271795
+L15_20200909 - saccharine preference test LD.xlsx,local_level_state_space,6,2,0.05914790910170682,0.072254827964669
+L15_20200909 - saccharine preference test LD.xlsx,constant,6,2,0.02737001426752602,0.03606097571127423
+L15_20200909 - saccharine preference test LD.xlsx,linear_drift,6,2,0.0029806656825874635,0.0016721906195239294
+L15_20200909 - saccharine preference test LD.xlsx,24h_harmonic,6,2,0.013528875668831226,0.020933726506401
+L16_20200521 - sucrose preference test LD .xlsx,local_level_state_space,6,2,0.00633036677315672,0.0033998429274174073
+L16_20200521 - sucrose preference test LD .xlsx,constant,6,2,0.00681686960547892,0.0033765660751816423
+L16_20200521 - sucrose preference test LD .xlsx,linear_drift,6,2,0.006481534440408974,0.003485049000000623
+L16_20200521 - sucrose preference test LD .xlsx,24h_harmonic,6,2,0.012683970690468161,0.005678534275338658
+L16_20200521 - sucrose preference test PA .xlsx,local_level_state_space,6,2,0.026470346222095775,0.02935360993003233
+L16_20200521 - sucrose preference test PA .xlsx,constant,6,2,0.026395893235888524,0.029271947639900625
+L16_20200521 - sucrose preference test PA .xlsx,linear_drift,6,2,0.022145708092087088,0.02456301602965569
+L16_20200521 - sucrose preference test PA .xlsx,24h_harmonic,6,2,0.02252729388985239,0.024996115502402116
+L16_20200730 - saccharine preference test AB .xlsx,local_level_state_space,6,2,0.026511246800571497,0.024454114226801733
+L16_20200730 - saccharine preference test AB .xlsx,constant,6,2,0.009453595896947631,0.008787455373524954
+L16_20200730 - saccharine preference test AB .xlsx,linear_drift,6,2,0.016521137599302238,0.01780539116070705
+L16_20200730 - saccharine preference test AB .xlsx,24h_harmonic,6,2,0.02247759867674465,0.024415271301478268
+L16_20200909 - saccharine preference test LD.xlsx,local_level_state_space,6,2,0.006291171882049733,0.007745000847071555
+L16_20200909 - saccharine preference test LD.xlsx,constant,6,2,0.004215586581396213,0.004825800479581112
+L16_20200909 - saccharine preference test LD.xlsx,linear_drift,6,2,0.10494656100368262,0.09938083259558742
+L16_20200909 - saccharine preference test LD.xlsx,24h_harmonic,6,2,0.16049599375784374,0.1922459704523313
+L17_20200521 - sucrose preference test LD .xlsx,local_level_state_space,6,2,0.0019572013299527617,0.002168738941265102
+L17_20200521 - sucrose preference test LD .xlsx,constant,6,2,0.0020555977213105583,0.0023131517628613416
+L17_20200521 - sucrose preference test LD .xlsx,linear_drift,6,2,0.002168926659461899,0.0024831895653389803
+L17_20200521 - sucrose preference test LD .xlsx,24h_harmonic,6,2,0.006268717268157583,0.007147521572038903
+L17_20200521 - sucrose preference test PA .xlsx,local_level_state_space,6,2,0.03307799121312673,0.034853503750962696
+L17_20200521 - sucrose preference test PA .xlsx,constant,6,2,0.03301556769251085,0.034742292015570095
+L17_20200521 - sucrose preference test PA .xlsx,linear_drift,6,2,0.039235600462684164,0.0436856238917719
+L17_20200521 - sucrose preference test PA .xlsx,24h_harmonic,6,2,0.041333872247318465,0.0404353765907918
+L17_20200730 - saccharine preference test AB .xlsx,local_level_state_space,6,2,0.01361345658875278,0.01347495809581255
+L17_20200730 - saccharine preference test AB .xlsx,constant,6,2,0.0020321533768931912,0.0020855959635088035
+L17_20200730 - saccharine preference test AB .xlsx,linear_drift,6,2,3.902782492330429e-05,4.808750574323519e-05
+L17_20200730 - saccharine preference test AB .xlsx,24h_harmonic,6,2,0.11747080508052349,0.11577352504133054
+L17_20200909 - saccharine preference test LD.xlsx,local_level_state_space,6,2,0.03338713227246808,0.031019285395297483
+L17_20200909 - saccharine preference test LD.xlsx,constant,6,2,0.0318935074857228,0.02957987119571773
+L17_20200909 - saccharine preference test LD.xlsx,linear_drift,6,2,0.01675192736757969,0.014599455236208623
+L17_20200909 - saccharine preference test LD.xlsx,24h_harmonic,6,2,0.0313085051744198,0.029833285235225625
+L18_20200521 - sucrose preference test LD .xlsx,local_level_state_space,6,2,0.003922564919750281,0.003922079295034929
+L18_20200521 - sucrose preference test LD .xlsx,constant,6,2,0.007592084386003272,0.0075914086894217706
+L18_20200521 - sucrose preference test LD .xlsx,linear_drift,6,2,0.07865068298005581,0.0787132823895055
+L18_20200521 - sucrose preference test LD .xlsx,24h_harmonic,6,2,0.15797860394739666,0.1578338136041694
+L18_20200521 - sucrose preference test PA .xlsx,local_level_state_space,6,2,0.00622615249586629,0.0065246919884439075
+L18_20200521 - sucrose preference test PA .xlsx,constant,6,2,0.011299668564140304,0.012216491811123545
+L18_20200521 - sucrose preference test PA .xlsx,linear_drift,6,2,0.012822052208630082,0.012025917034461214
+L18_20200521 - sucrose preference test PA .xlsx,24h_harmonic,6,2,0.03379623210798762,0.036527441992094026
+L18_20200730 - saccharine preference test AB .xlsx,local_level_state_space,6,2,0.012558379621103977,0.008607262093302225
+L18_20200730 - saccharine preference test AB .xlsx,constant,6,2,0.010856659297301067,0.007458812499424711
+L18_20200730 - saccharine preference test AB .xlsx,linear_drift,6,2,0.007293603130471974,0.006519280615670957
+L18_20200730 - saccharine preference test AB .xlsx,24h_harmonic,6,2,0.004498070766550051,0.004441876038441195
+L18_20200909 - saccharine preference test LD.xlsx,local_level_state_space,6,2,0.013669862091884807,0.017134614653482746
+L18_20200909 - saccharine preference test LD.xlsx,constant,6,2,0.013052193112341312,0.016313870587511412
+L18_20200909 - saccharine preference test LD.xlsx,linear_drift,6,2,0.006676730483453247,0.006668750931149148
+L18_20200909 - saccharine preference test LD.xlsx,24h_harmonic,6,2,0.012157602524526318,0.013542994733647876
+L19_20200521 - sucrose preference test LD .xlsx,local_level_state_space,6,2,0.001802611627967434,0.0016021349145527155
+L19_20200521 - sucrose preference test LD .xlsx,constant,6,2,0.0016482463089718736,0.001461464664642608
+L19_20200521 - sucrose preference test LD .xlsx,linear_drift,6,2,0.001322950566249357,0.0011688928727216074
+L19_20200521 - sucrose preference test LD .xlsx,24h_harmonic,6,2,0.008945363589953405,0.008666413189473702
+L19_20200521 - sucrose preference test PA .xlsx,local_level_state_space,6,2,0.06237719535348057,0.05668917743737636
+L19_20200521 - sucrose preference test PA .xlsx,constant,6,2,0.028633722447189112,0.024775650931560148
+L19_20200521 - sucrose preference test PA .xlsx,linear_drift,6,2,0.16319732031266,0.16383669520657707
+L19_20200521 - sucrose preference test PA .xlsx,24h_harmonic,6,2,0.03774564664943713,0.02662631583822433
+L19_20200730 - saccharine preference test AB .xlsx,local_level_state_space,6,2,0.0009666643104331182,0.0008812460180947614
+L19_20200730 - saccharine preference test AB .xlsx,constant,6,2,0.001235139078726184,0.0011166305797798422
+L19_20200730 - saccharine preference test AB .xlsx,linear_drift,6,2,0.003411024176161022,0.003175506515075616
+L19_20200730 - saccharine preference test AB .xlsx,24h_harmonic,6,2,0.02336747828464674,0.022185515221201144
+L19_20200909 - saccharine preference test LD.xlsx,local_level_state_space,6,2,0.025932821876676067,0.027209784214944036
+L19_20200909 - saccharine preference test LD.xlsx,constant,6,2,0.014707644746128509,0.014107182391996457
+L19_20200909 - saccharine preference test LD.xlsx,linear_drift,6,2,0.11805914629540676,0.12853206693594577
+L19_20200909 - saccharine preference test LD.xlsx,24h_harmonic,6,2,0.01199348221808516,0.014599531080411923
+L1_20200310 - Sucrose preference test LD.xlsx,local_level_state_space,6,2,0.04190464829786229,0.03885356868975731
+L1_20200310 - Sucrose preference test LD.xlsx,constant,6,2,0.036671369901003635,0.03410192352533946
+L1_20200310 - Sucrose preference test LD.xlsx,linear_drift,6,2,0.028576829592756856,0.028004768479346496
+L1_20200310 - Sucrose preference test LD.xlsx,24h_harmonic,6,2,0.07327221611744371,0.06861272859241375
+L1_20200403 - sucrose preference test Female DD.xlsx,local_level_state_space,6,2,0.0021152506071572728,0.0019588470233110407
+L1_20200403 - sucrose preference test Female DD.xlsx,constant,6,2,0.010778255485434214,0.011309802688916286
+L1_20200403 - sucrose preference test Female DD.xlsx,linear_drift,6,2,0.012122839808840102,0.011924284440312042
+L1_20200403 - sucrose preference test Female DD.xlsx,24h_harmonic,6,2,0.023253783519342472,0.024762212410160144
+L1_20200421 - sucrose preference test Male DD.xlsx,local_level_state_space,6,2,0.027180639286851046,0.03831488359704213
+L1_20200421 - sucrose preference test Male DD.xlsx,constant,6,2,0.017596711238659392,0.01798459033843946
+L1_20200421 - sucrose preference test Male DD.xlsx,linear_drift,6,2,0.07014925931570362,0.050240319873397485
+L1_20200421 - sucrose preference test Male DD.xlsx,24h_harmonic,6,2,0.07620353235130113,0.10881137011352511
+L1_20200505 - sucrose preference test PA .xlsx,local_level_state_space,6,2,0.04217035758219471,0.044410276744918216
+L1_20200505 - sucrose preference test PA .xlsx,constant,6,2,0.009565632382182073,0.01044397322823157
+L1_20200505 - sucrose preference test PA .xlsx,linear_drift,6,2,0.02400826475134292,0.023162986382773285
+L1_20200505 - sucrose preference test PA .xlsx,24h_harmonic,6,2,0.028959060632120233,0.03161058467353363
+L1_20200609 - sucrose preference test LD .xlsx,local_level_state_space,6,2,0.011707235929015134,0.006262847121271125
+L1_20200609 - sucrose preference test LD .xlsx,constant,6,2,0.01130168113615516,0.006027526340461393
+L1_20200609 - sucrose preference test LD .xlsx,linear_drift,6,2,0.004118378684938627,0.005681973164058533
+L1_20200609 - sucrose preference test LD .xlsx,24h_harmonic,6,2,0.03890207046706062,0.023509115103046777
+L20_20200521 - sucrose preference test LD .xlsx,local_level_state_space,6,2,0.03728217795248031,0.03714803235868688
+L20_20200521 - sucrose preference test LD .xlsx,constant,6,2,0.03824414590716047,0.03810160920764462
+L20_20200521 - sucrose preference test LD .xlsx,linear_drift,6,2,0.034423848722823044,0.034388187798807084
+L20_20200521 - sucrose preference test LD .xlsx,24h_harmonic,6,2,0.04627466036382648,0.046465423601334994
+L20_20200521 - sucrose preference test PA .xlsx,local_level_state_space,6,2,0.02280317463204322,0.022438619458678033
+L20_20200521 - sucrose preference test PA .xlsx,constant,6,2,0.021432660937190626,0.02107966808621413
+L20_20200521 - sucrose preference test PA .xlsx,linear_drift,6,2,0.053970264528653944,0.053642634373225334
+L20_20200521 - sucrose preference test PA .xlsx,24h_harmonic,6,2,0.0430723031721397,0.04215484070014245
+L20_20200730 - saccharine preference test AB .xlsx,local_level_state_space,6,2,0.008708915867514579,0.007022895026423003
+L20_20200730 - saccharine preference test AB .xlsx,constant,6,2,0.0005976809864220617,0.0004140137668065674
+L20_20200730 - saccharine preference test AB .xlsx,linear_drift,6,2,0.0006453040502566092,0.0004137297296123819
+L20_20200730 - saccharine preference test AB .xlsx,24h_harmonic,6,2,0.0003187761015214853,0.00026030992215468835
+L20_20200909 - saccharine preference test LD.xlsx,local_level_state_space,6,2,0.022759471129322174,0.019468037445680014
+L20_20200909 - saccharine preference test LD.xlsx,constant,6,2,0.010356912218895073,0.008159703193613392
+L20_20200909 - saccharine preference test LD.xlsx,linear_drift,6,2,0.0011402799626767314,0.000649790626534214
+L20_20200909 - saccharine preference test LD.xlsx,24h_harmonic,6,2,0.0013825797025698305,0.0016277013605475344
+L2_20200310 - Sucrose preference test LD.xlsx,local_level_state_space,6,2,0.023789076101324566,0.02699572969409469
+L2_20200310 - Sucrose preference test LD.xlsx,constant,6,2,0.02243829607577265,0.02541517387145538
+L2_20200310 - Sucrose preference test LD.xlsx,linear_drift,6,2,0.03823067127217306,0.04309378588391806
+L2_20200310 - Sucrose preference test LD.xlsx,24h_harmonic,6,2,0.019082950333521132,0.01771014438601261
+L2_20200403 - sucrose preference test Female DD.xlsx,local_level_state_space,6,2,0.06446108583731511,0.06638337101271054
+L2_20200403 - sucrose preference test Female DD.xlsx,constant,6,2,0.05513811532779631,0.0565880174013922
+L2_20200403 - sucrose preference test Female DD.xlsx,linear_drift,6,2,0.12711214837129733,0.13104305012177564
+L2_20200403 - sucrose preference test Female DD.xlsx,24h_harmonic,6,2,0.035126419740885026,0.03559344962666925
+L2_20200421 - sucrose preference test Male DD.xlsx,local_level_state_space,6,2,0.04915761364087363,0.06595577144586115
+L2_20200421 - sucrose preference test Male DD.xlsx,constant,6,2,0.0434092999472858,0.05548385997634106
+L2_20200421 - sucrose preference test Male DD.xlsx,linear_drift,6,2,0.033856552045379115,0.02374555569012726
+L2_20200421 - sucrose preference test Male DD.xlsx,24h_harmonic,6,2,0.29667878841771694,0.4016249462586671
+L2_20200609 - sucrose preference test LD .xlsx,local_level_state_space,6,2,0.03837543161487423,0.01907478966619697
+L2_20200609 - sucrose preference test LD .xlsx,constant,6,2,0.06744201120837574,0.03997061250266404
+L2_20200609 - sucrose preference test LD .xlsx,linear_drift,6,2,0.01754450664270189,0.013069523671870328
+L2_20200609 - sucrose preference test LD .xlsx,24h_harmonic,6,2,0.08008814668861594,0.06499038830336464
+L3_20200310 - Sucrose preference test LD.xlsx,local_level_state_space,6,2,0.050158901667656214,0.03490673733945798
+L3_20200310 - Sucrose preference test LD.xlsx,constant,6,2,0.05117681982555106,0.03573703100406612
+L3_20200310 - Sucrose preference test LD.xlsx,linear_drift,6,2,0.04151989905782395,0.027669196338204815
+L3_20200310 - Sucrose preference test LD.xlsx,24h_harmonic,6,2,0.09335519079436211,0.07287260431483616
+L3_20200403 - sucrose preference test Female DD.xlsx,local_level_state_space,6,2,0.017773348257627806,0.01693452144428274
+L3_20200403 - sucrose preference test Female DD.xlsx,constant,6,2,0.016483213025304054,0.015684093890678274
+L3_20200403 - sucrose preference test Female DD.xlsx,linear_drift,6,2,0.018085689684725178,0.017246618731734237
+L3_20200403 - sucrose preference test Female DD.xlsx,24h_harmonic,6,2,0.004951350908131205,0.004899211083635024
+L3_20200421 - sucrose preference test Male DD.xlsx,local_level_state_space,6,2,0.05013188811559863,0.050098276720744274
+L3_20200421 - sucrose preference test Male DD.xlsx,constant,6,2,0.012293188042879299,0.012276544805696763
+L3_20200421 - sucrose preference test Male DD.xlsx,linear_drift,6,2,0.01700550022078222,0.018212255079437814
+L3_20200421 - sucrose preference test Male DD.xlsx,24h_harmonic,6,2,0.09123181581070897,0.09606964277431253
+L3_20200505 - sucrose preference test PA .xlsx,local_level_state_space,6,2,0.10667335187559203,0.10429966445682669
+L3_20200505 - sucrose preference test PA .xlsx,constant,6,2,0.16344673174686028,0.15208444140739602
+L3_20200505 - sucrose preference test PA .xlsx,linear_drift,6,2,0.08294642512053234,0.08394513282197863
+L3_20200505 - sucrose preference test PA .xlsx,24h_harmonic,6,2,0.1478905013352744,0.14294291440873144
+L3_20200609 - sucrose preference test LD .xlsx,local_level_state_space,6,2,0.017058411717515307,0.018706415514359684
+L3_20200609 - sucrose preference test LD .xlsx,constant,6,2,0.015254616640913465,0.016783673727073137
+L3_20200609 - sucrose preference test LD .xlsx,linear_drift,6,2,0.016500976318982508,0.01812495057465578
+L3_20200609 - sucrose preference test LD .xlsx,24h_harmonic,6,2,0.007170029383433847,0.007976097772663025
+L4_20200310 - Sucrose preference test LD.xlsx,local_level_state_space,6,2,0.0572037604823188,0.07968096998440163
+L4_20200310 - Sucrose preference test LD.xlsx,constant,6,2,0.056670276800259455,0.07883338452168119
+L4_20200310 - Sucrose preference test LD.xlsx,linear_drift,6,2,0.04458947599283129,0.059198757341779235
+L4_20200310 - Sucrose preference test LD.xlsx,24h_harmonic,6,2,0.0474487844275358,0.059312436641649924
+L4_20200403 - sucrose preference test Female DD.xlsx,local_level_state_space,6,2,0.005972482528740239,0.004546201223248438
+L4_20200403 - sucrose preference test Female DD.xlsx,constant,6,2,0.03105037922390384,0.02760159801261095
+L4_20200403 - sucrose preference test Female DD.xlsx,linear_drift,6,2,0.005461220311477907,0.003684291553035886
+L4_20200403 - sucrose preference test Female DD.xlsx,24h_harmonic,6,2,0.0025262438399361107,0.003005346010840772
+L4_20200421 - sucrose preference test Male DD.xlsx,local_level_state_space,6,2,0.2477704737815896,0.3556100779870543
+L4_20200421 - sucrose preference test Male DD.xlsx,constant,6,2,0.14355734072290613,0.17521934512938128
+L4_20200421 - sucrose preference test Male DD.xlsx,linear_drift,6,2,0.2036385166458357,0.2831559619450468
+L4_20200421 - sucrose preference test Male DD.xlsx,24h_harmonic,6,2,0.16798446149337723,0.09603768703154833
+L4_20200505 - sucrose preference test PA .xlsx,local_level_state_space,6,2,0.014898478369276427,0.018571702672060954
+L4_20200505 - sucrose preference test PA .xlsx,constant,6,2,0.012736762010290026,0.015940326429172195
+L4_20200505 - sucrose preference test PA .xlsx,linear_drift,6,2,0.03904941405286818,0.04699478137830379
+L4_20200505 - sucrose preference test PA .xlsx,24h_harmonic,6,2,0.019922965913016885,0.023566178676488202
+L4_20200609 - sucrose preference test LD .xlsx,local_level_state_space,6,2,0.023509858715758034,0.022040515856816916
+L4_20200609 - sucrose preference test LD .xlsx,constant,6,2,0.023518225306965734,0.022048615567294337
+L4_20200609 - sucrose preference test LD .xlsx,linear_drift,6,2,0.019887472238510017,0.01863260795311033
+L4_20200609 - sucrose preference test LD .xlsx,24h_harmonic,6,2,0.0034470577131640763,0.002868709700103944
+L5_20200310 - Sucrose preference test LD.xlsx,local_level_state_space,6,2,0.01641447491917593,0.01827761332730266
+L5_20200310 - Sucrose preference test LD.xlsx,constant,6,2,0.016928736009290464,0.01882452718015758
+L5_20200310 - Sucrose preference test LD.xlsx,linear_drift,6,2,0.0060865604954353355,0.006989923061379863
+L5_20200310 - Sucrose preference test LD.xlsx,24h_harmonic,6,2,0.04171580454181993,0.04582097361840586
+L5_20200403 - sucrose preference test Female DD.xlsx,local_level_state_space,6,2,0.0006864727404064374,0.000711796085284324
+L5_20200403 - sucrose preference test Female DD.xlsx,constant,6,2,0.0070364416427730805,0.008137941697055246
+L5_20200403 - sucrose preference test Female DD.xlsx,linear_drift,6,2,0.0013719417191145119,0.0011432617680295447
+L5_20200403 - sucrose preference test Female DD.xlsx,24h_harmonic,6,2,0.10844050787250069,0.1121284796157106
+L5_20200421 - sucrose preference test Male DD.xlsx,local_level_state_space,6,2,0.22733743547163393,0.22982475123560017
+L5_20200421 - sucrose preference test Male DD.xlsx,constant,6,2,0.20764999999999922,0.2100268656716411
+L5_20200421 - sucrose preference test Male DD.xlsx,linear_drift,6,2,0.07700495091189113,0.08003316322107187
+L5_20200421 - sucrose preference test Male DD.xlsx,24h_harmonic,6,2,0.11925038548358928,0.11975414968828213
+L5_20200505 - sucrose preference test PA .xlsx,local_level_state_space,6,2,0.004839394987044165,0.003414118289373139
+L5_20200505 - sucrose preference test PA .xlsx,constant,6,2,0.004569229872897823,0.0031889281716350228
+L5_20200505 - sucrose preference test PA .xlsx,linear_drift,6,2,0.0009255739209247184,0.0010130846197644804
+L5_20200505 - sucrose preference test PA .xlsx,24h_harmonic,6,2,0.003765515201393888,0.002738411417045354
+L5_20200609 - sucrose preference test LD .xlsx,local_level_state_space,6,2,0.0017137653028500245,0.001905838917215546
+L5_20200609 - sucrose preference test LD .xlsx,constant,6,2,0.0010840233758392295,0.0012283205282062983
+L5_20200609 - sucrose preference test LD .xlsx,linear_drift,6,2,0.012644686298853928,0.012829970546860832
+L5_20200609 - sucrose preference test LD .xlsx,24h_harmonic,6,2,0.0034884850814589736,0.002989357440598146
+L6_20200310 - Sucrose preference test LD.xlsx,local_level_state_space,6,2,0.17174102972626967,0.11331122269130975
+L6_20200310 - Sucrose preference test LD.xlsx,constant,6,2,0.09482203546965114,0.05219020027319133
+L6_20200310 - Sucrose preference test LD.xlsx,linear_drift,6,2,0.23778190898382706,0.18616528866271012
+L6_20200310 - Sucrose preference test LD.xlsx,24h_harmonic,6,2,0.10606586432497764,0.04420703066410209
+L6_20200403 - sucrose preference test Female DD.xlsx,local_level_state_space,6,2,0.12772361023733028,0.10727173717578758
+L6_20200403 - sucrose preference test Female DD.xlsx,constant,6,2,0.0370570459827801,0.02681473227417919
+L6_20200403 - sucrose preference test Female DD.xlsx,linear_drift,6,2,0.017621494573339818,0.011303609617673823
+L6_20200403 - sucrose preference test Female DD.xlsx,24h_harmonic,6,2,0.07626276148965733,0.06333405697624549
+L6_20200421 - sucrose preference test Male DD.xlsx,local_level_state_space,6,2,0.018314897975665136,0.022791806387866074
+L6_20200421 - sucrose preference test Male DD.xlsx,constant,6,2,0.009029871464983883,0.010983981407260295
+L6_20200421 - sucrose preference test Male DD.xlsx,linear_drift,6,2,0.056387007105154964,0.044089851279804124
+L6_20200421 - sucrose preference test Male DD.xlsx,24h_harmonic,6,2,0.0006279706736668214,0.0007601100229690533
+L6_20200609 - sucrose preference test LD .xlsx,local_level_state_space,6,2,0.05784262045540819,0.03694693751409523
+L6_20200609 - sucrose preference test LD .xlsx,constant,6,2,0.05775266439909411,0.036893707482994025
+L6_20200609 - sucrose preference test LD .xlsx,linear_drift,6,2,0.07788443357098784,0.050423214136123
+L6_20200609 - sucrose preference test LD .xlsx,24h_harmonic,6,2,0.15305332004336192,0.1073922182685245
+L7_20200310 - Sucrose preference test LD.xlsx,local_level_state_space,6,2,0.22207934332518675,0.16348116983747746
+L7_20200310 - Sucrose preference test LD.xlsx,constant,6,2,0.2173298484746766,0.15940046977530642
+L7_20200310 - Sucrose preference test LD.xlsx,linear_drift,6,2,0.13735018146319694,0.08794717086420628
+L7_20200310 - Sucrose preference test LD.xlsx,24h_harmonic,6,2,0.2963176595244005,0.23424420095827977
+L7_20200403 - sucrose preference test Female DD.xlsx,local_level_state_space,6,2,0.009525581665240913,0.008396352973518123
+L7_20200403 - sucrose preference test Female DD.xlsx,constant,6,2,0.014742897853383364,0.012208729811412486
+L7_20200403 - sucrose preference test Female DD.xlsx,linear_drift,6,2,0.05505890346592058,0.04951439389188043
+L7_20200403 - sucrose preference test Female DD.xlsx,24h_harmonic,6,2,0.014176661834737082,0.01266312503285768
+L7_20200421 - sucrose preference test Male DD.xlsx,local_level_state_space,6,2,0.058667612716458664,0.05813707073622626
+L7_20200421 - sucrose preference test Male DD.xlsx,constant,6,2,0.04367370083709458,0.04352537442457317
+L7_20200421 - sucrose preference test Male DD.xlsx,linear_drift,6,2,0.08508168356379257,0.08424183155581877
+L7_20200421 - sucrose preference test Male DD.xlsx,24h_harmonic,6,2,0.14363029640332822,0.14218721616864607
+L7_20200505 - sucrose preference test PA .xlsx,local_level_state_space,6,2,0.021210525925880807,0.017720285481578606
+L7_20200505 - sucrose preference test PA .xlsx,constant,6,2,0.020425331721322233,0.017028342701375154
+L7_20200505 - sucrose preference test PA .xlsx,linear_drift,6,2,0.019367785102615248,0.016087039803896724
+L7_20200505 - sucrose preference test PA .xlsx,24h_harmonic,6,2,0.007005591105292605,0.006906195281675709
+L7_20200609 - sucrose preference test LD .xlsx,local_level_state_space,6,2,0.09149563060463864,0.08962607344044787
+L7_20200609 - sucrose preference test LD .xlsx,constant,6,2,0.09165951098706607,0.08936444855415607
+L7_20200609 - sucrose preference test LD .xlsx,linear_drift,6,2,0.1140593803042455,0.10096910932308759
+L7_20200609 - sucrose preference test LD .xlsx,24h_harmonic,6,2,0.07589040196464987,0.07940644937401553
+L8_20200310 - Sucrose preference test LD.xlsx,local_level_state_space,6,2,0.012076641940357687,0.010157966694833858
+L8_20200310 - Sucrose preference test LD.xlsx,constant,6,2,0.012258276076726296,0.010118274088000891
+L8_20200310 - Sucrose preference test LD.xlsx,linear_drift,6,2,0.022153218674606574,0.014927497470791517
+L8_20200310 - Sucrose preference test LD.xlsx,24h_harmonic,6,2,0.012652246913234987,0.012244475585398961
+L8_20200403 - sucrose preference test Female DD.xlsx,local_level_state_space,6,2,0.04391273056938673,0.03660532334681506
+L8_20200403 - sucrose preference test Female DD.xlsx,constant,6,2,0.022739598892516387,0.019466473137531203
+L8_20200403 - sucrose preference test Female DD.xlsx,linear_drift,6,2,0.031302167774390315,0.025978954086831922
+L8_20200403 - sucrose preference test Female DD.xlsx,24h_harmonic,6,2,0.05208378503267265,0.060148923643194435
+L8_20200421 - sucrose preference test Male DD.xlsx,local_level_state_space,6,2,0.051553604100410995,0.06269055591927543
+L8_20200421 - sucrose preference test Male DD.xlsx,constant,6,2,0.031267169331576077,0.03958891743576222
+L8_20200421 - sucrose preference test Male DD.xlsx,linear_drift,6,2,0.002864785479012917,0.00324621324443391
+L8_20200421 - sucrose preference test Male DD.xlsx,24h_harmonic,6,2,0.1854519792675645,0.2183079849324942
+L8_20200505 - sucrose preference test PA .xlsx,local_level_state_space,6,2,0.0017898251878556374,0.0017901825533165414
+L8_20200505 - sucrose preference test PA .xlsx,constant,6,2,0.0023367977258581495,0.0023372053900967155
+L8_20200505 - sucrose preference test PA .xlsx,linear_drift,6,2,0.022099748366182392,0.022710723007019352
+L8_20200505 - sucrose preference test PA .xlsx,24h_harmonic,6,2,0.014123920721278858,0.01308830979150986
+L8_20200609 - sucrose preference test LD .xlsx,local_level_state_space,6,2,0.03487195548291837,0.022414836764215164
+L8_20200609 - sucrose preference test LD .xlsx,constant,6,2,0.03447586782258167,0.022145909930810986
+L8_20200609 - sucrose preference test LD .xlsx,linear_drift,6,2,0.028818468953931968,0.0185347901697965
+L8_20200609 - sucrose preference test LD .xlsx,24h_harmonic,6,2,0.02158591168358428,0.01424262781860748
+L9_20200310 - Sucrose preference test LD.xlsx,local_level_state_space,6,2,0.015216989725157086,0.014668401768295675
+L9_20200310 - Sucrose preference test LD.xlsx,constant,6,2,0.03327099088599959,0.034587999344992605
+L9_20200310 - Sucrose preference test LD.xlsx,linear_drift,6,2,0.013306122687911776,0.013023818315365303
+L9_20200310 - Sucrose preference test LD.xlsx,24h_harmonic,6,2,0.008870360736844421,0.009236955340632777
+L9_20200403 - sucrose preference test Female DD.xlsx,local_level_state_space,6,2,0.07743036174187595,0.06383933965724611
+L9_20200403 - sucrose preference test Female DD.xlsx,constant,6,2,0.04173147126388408,0.032922841071074176
+L9_20200403 - sucrose preference test Female DD.xlsx,linear_drift,6,2,0.020537339797360638,0.019521054096966733
+L9_20200403 - sucrose preference test Female DD.xlsx,24h_harmonic,6,2,0.012856001515058795,0.01026705002250561
+L9_20200421 - sucrose preference test Male DD.xlsx,local_level_state_space,6,2,0.14234398556304823,0.024027024432959596
+L9_20200421 - sucrose preference test Male DD.xlsx,constant,6,2,0.17169344939715725,0.014639508320627728
+L9_20200421 - sucrose preference test Male DD.xlsx,linear_drift,6,2,0.34853052988287425,0.0749620030239719
+L9_20200421 - sucrose preference test Male DD.xlsx,24h_harmonic,6,2,0.15525891947604142,0.060707828510611316
+L9_20200609 - sucrose preference test LD .xlsx,local_level_state_space,6,2,0.03835533934690656,0.03615051573063937
+L9_20200609 - sucrose preference test LD .xlsx,constant,6,2,0.0365197731021981,0.034403785963764234
+L9_20200609 - sucrose preference test LD .xlsx,linear_drift,6,2,0.0222958785718558,0.021237622198427803
+L9_20200609 - sucrose preference test LD .xlsx,24h_harmonic,6,2,0.038917892576383784,0.03683473657910599
+NL10_20200421 - sucrose preference test old VB DD SPT.xlsx,local_level_state_space,6,2,0.0160459152453606,0.012085496669529239
+NL10_20200421 - sucrose preference test old VB DD SPT.xlsx,constant,6,2,0.009346778877859719,0.006822271271030982
+NL10_20200421 - sucrose preference test old VB DD SPT.xlsx,linear_drift,6,2,0.04740169045038088,0.04157615658309937
+NL10_20200421 - sucrose preference test old VB DD SPT.xlsx,24h_harmonic,6,2,0.06578584182695581,0.08003452111851345
+NL10_20201015 - Saccharine preference test young .xlsx,local_level_state_space,6,2,0.004701788433086495,0.004907027308314928
+NL10_20201015 - Saccharine preference test young .xlsx,constant,6,2,0.004010997528924571,0.004194390076119937
+NL10_20201015 - Saccharine preference test young .xlsx,linear_drift,6,2,0.0018080047422677052,0.0018003947664420325
+NL10_20201015 - Saccharine preference test young .xlsx,24h_harmonic,6,2,0.010121323849156696,0.009793644296218446
+NL10_20201123 - sucrose preference test PA.xlsx,local_level_state_space,6,2,0.0034536018747009078,0.0032586118195865764
+NL10_20201123 - sucrose preference test PA.xlsx,constant,6,2,0.0035938912300144447,0.003364671642152009
+NL10_20201123 - sucrose preference test PA.xlsx,linear_drift,6,2,0.0033378403526548896,0.0032829383142231076
+NL10_20201123 - sucrose preference test PA.xlsx,24h_harmonic,6,2,0.005334289917508802,0.004851792278868888
+NL1_20200421 - sucrose preference test old VB DD SPT.xlsx,local_level_state_space,6,2,0.02665927273173306,0.016979927753028857
+NL1_20200421 - sucrose preference test old VB DD SPT.xlsx,constant,6,2,0.014317973376484407,0.00997823608195956
+NL1_20200421 - sucrose preference test old VB DD SPT.xlsx,linear_drift,6,2,0.017596078812069055,0.02254872434134214
+NL1_20200421 - sucrose preference test old VB DD SPT.xlsx,24h_harmonic,6,2,0.03013144758277773,0.019934105208126048
+NL1_20201015 - Saccharine preference test young .xlsx,local_level_state_space,6,2,0.005343920245075698,0.00683765907319325
+NL1_20201015 - Saccharine preference test young .xlsx,constant,6,2,0.004890328243758543,0.0062729412513599725
+NL1_20201015 - Saccharine preference test young .xlsx,linear_drift,6,2,0.001968932705600734,0.0022815875673675334
+NL1_20201015 - Saccharine preference test young .xlsx,24h_harmonic,6,2,0.0031949849787840977,0.0037013861180058487
+NL2_20200421 - sucrose preference test old VB DD SPT.xlsx,local_level_state_space,6,2,0.03346340749113568,0.06221643294513539
+NL2_20200421 - sucrose preference test old VB DD SPT.xlsx,constant,6,2,0.021679229565231918,0.031129260314730827
+NL2_20200421 - sucrose preference test old VB DD SPT.xlsx,linear_drift,6,2,0.04038781163434821,0.07523219814241329
+NL2_20200421 - sucrose preference test old VB DD SPT.xlsx,24h_harmonic,6,2,0.020816171446744004,0.002979235911945214
+NL2_20201015 - Saccharine preference test young .xlsx,local_level_state_space,6,2,0.025003264934380244,0.026611319728865625
+NL2_20201015 - Saccharine preference test young .xlsx,constant,6,2,0.02293428081900932,0.024473496336651593
+NL2_20201015 - Saccharine preference test young .xlsx,linear_drift,6,2,0.009260555005733417,0.009890191180651828
+NL2_20201015 - Saccharine preference test young .xlsx,24h_harmonic,6,2,0.002803015162710506,0.0035943300265550183
+NL3_20200421 - sucrose preference test old VB DD SPT.xlsx,local_level_state_space,6,2,0.004547093762836508,0.004136136650882383
+NL3_20200421 - sucrose preference test old VB DD SPT.xlsx,constant,6,2,0.0037714779506688233,0.0033975181242537986
+NL3_20200421 - sucrose preference test old VB DD SPT.xlsx,linear_drift,6,2,0.005775719189583621,0.007534243162810757
+NL3_20200421 - sucrose preference test old VB DD SPT.xlsx,24h_harmonic,6,2,0.001731831989844404,0.0009722308590065247
+NL3_20201015 - Saccharine preference test young .xlsx,local_level_state_space,6,2,0.008836602079969329,0.007796896822996396
+NL3_20201015 - Saccharine preference test young .xlsx,constant,6,2,0.00861906441815488,0.007592989930964727
+NL3_20201015 - Saccharine preference test young .xlsx,linear_drift,6,2,0.006751422368694375,0.005802175627185414
+NL3_20201015 - Saccharine preference test young .xlsx,24h_harmonic,6,2,0.0015097326497740524,0.0012037745101932122
+NL4_20200421 - sucrose preference test old VB DD SPT.xlsx,local_level_state_space,6,2,0.10978585095281776,0.15297084207117734
+NL4_20200421 - sucrose preference test old VB DD SPT.xlsx,constant,6,2,0.05035074658570993,0.07485208497425294
+NL4_20200421 - sucrose preference test old VB DD SPT.xlsx,linear_drift,6,2,0.06896624409270777,0.10111625404183944
+NL4_20200421 - sucrose preference test old VB DD SPT.xlsx,24h_harmonic,6,2,0.024577934923681516,0.016583067454452295
+NL4_20201015 - Saccharine preference test young .xlsx,local_level_state_space,6,2,0.0006758667882213713,0.0006380497999518359
+NL4_20201015 - Saccharine preference test young .xlsx,constant,6,2,0.0008378139352704316,0.0008890097337870515
+NL4_20201015 - Saccharine preference test young .xlsx,linear_drift,6,2,0.01691701906829628,0.016811500134397694
+NL4_20201015 - Saccharine preference test young .xlsx,24h_harmonic,6,2,0.006840039030345691,0.006414574371947466
+NL5_20200421 - sucrose preference test old VB DD SPT.xlsx,local_level_state_space,5,2,0.060425860541859874,0.03648853455482344
+NL5_20200421 - sucrose preference test old VB DD SPT.xlsx,constant,5,2,0.07996291830613489,0.05160819447131551
+NL5_20200421 - sucrose preference test old VB DD SPT.xlsx,linear_drift,5,2,0.234160916714769,0.19431713939915013
+NL5_20200421 - sucrose preference test old VB DD SPT.xlsx,24h_harmonic,5,2,0.13218574086379448,0.08172386888132806
+NL5_20201015 - Saccharine preference test young .xlsx,local_level_state_space,6,2,0.004129644886426231,0.004142674175006769
+NL5_20201015 - Saccharine preference test young .xlsx,constant,6,2,0.0033225079397024185,0.0033288138143042602
+NL5_20201015 - Saccharine preference test young .xlsx,linear_drift,6,2,0.0033887983355156545,0.0033863171006302813
+NL5_20201015 - Saccharine preference test young .xlsx,24h_harmonic,6,2,0.004269496216314099,0.004280335315224779
+NL6_20200421 - sucrose preference test old VB DD SPT.xlsx,local_level_state_space,6,2,0.026264664519890533,0.028255357449864123
+NL6_20200421 - sucrose preference test old VB DD SPT.xlsx,constant,6,2,0.035394578436169666,0.021253151110405228
+NL6_20200421 - sucrose preference test old VB DD SPT.xlsx,linear_drift,6,2,0.13912963515904447,0.09885341049024475
+NL6_20200421 - sucrose preference test old VB DD SPT.xlsx,24h_harmonic,6,2,0.05646204091221523,0.08061015069386598
+NL6_20201015 - Saccharine preference test young .xlsx,local_level_state_space,6,2,0.009957331937167954,0.01096607994575864
+NL6_20201015 - Saccharine preference test young .xlsx,constant,6,2,0.0031049747914426553,0.0030585393495826925
+NL6_20201015 - Saccharine preference test young .xlsx,linear_drift,6,2,0.045285530867166274,0.04861270211632488
+NL6_20201015 - Saccharine preference test young .xlsx,24h_harmonic,6,2,0.0006390017257345382,0.0005726171227974314
+NL7_20200421 - sucrose preference test old VB DD SPT.xlsx,local_level_state_space,6,2,0.01312059448674191,0.010282225618943684
+NL7_20200421 - sucrose preference test old VB DD SPT.xlsx,constant,6,2,0.015217319720520178,0.012154555757282857
+NL7_20200421 - sucrose preference test old VB DD SPT.xlsx,linear_drift,6,2,0.004749746837429031,0.0024978479062216057
+NL7_20200421 - sucrose preference test old VB DD SPT.xlsx,24h_harmonic,6,2,0.031064322602066603,0.028738840656099923
+NL7_20201015 - Saccharine preference test young .xlsx,local_level_state_space,6,2,0.0017988636958832013,0.00127431749005294
+NL7_20201015 - Saccharine preference test young .xlsx,constant,6,2,0.002920128873743419,0.0037599690238665482
+NL7_20201015 - Saccharine preference test young .xlsx,linear_drift,6,2,0.024162163541540757,0.028269611247666294
+NL7_20201015 - Saccharine preference test young .xlsx,24h_harmonic,6,2,0.025433270171704332,0.023729537744995567
+NL8_20200421 - sucrose preference test old VB DD SPT.xlsx,local_level_state_space,5,2,0.043708253336713895,0.018207901618293942
+NL8_20200421 - sucrose preference test old VB DD SPT.xlsx,constant,5,2,0.019537417121979893,0.006190658291034822
+NL8_20200421 - sucrose preference test old VB DD SPT.xlsx,linear_drift,5,2,0.05225794745246445,0.026069584460290913
+NL8_20200421 - sucrose preference test old VB DD SPT.xlsx,24h_harmonic,5,2,0.02394007932940068,0.023241927518074447
+NL8_20201015 - Saccharine preference test young .xlsx,local_level_state_space,6,2,0.0019978932060664943,0.0013847498178090668
+NL8_20201015 - Saccharine preference test young .xlsx,constant,6,2,0.0010948135499632792,0.0006804875553828867
+NL8_20201015 - Saccharine preference test young .xlsx,linear_drift,6,2,0.016203721891295878,0.015507314136665064
+NL8_20201015 - Saccharine preference test young .xlsx,24h_harmonic,6,2,0.0024444157257504143,0.0034584457691602317
+NL9_20200421 - sucrose preference test old VB DD SPT.xlsx,local_level_state_space,6,2,0.0019733617247382172,0.0018329116168407556
+NL9_20200421 - sucrose preference test old VB DD SPT.xlsx,constant,6,2,0.007471634398458125,0.007959321048855056
+NL9_20200421 - sucrose preference test old VB DD SPT.xlsx,linear_drift,6,2,0.018204116530241055,0.019161534765812012
+NL9_20200421 - sucrose preference test old VB DD SPT.xlsx,24h_harmonic,6,2,0.08423440724047171,0.08664914134887926
+NL9_20201015 - Saccharine preference test young .xlsx,local_level_state_space,6,2,0.0001124227871503822,0.0001017671703984698
+NL9_20201015 - Saccharine preference test young .xlsx,constant,6,2,8.444712905702448e-05,8.823725622687246e-05
+NL9_20201015 - Saccharine preference test young .xlsx,linear_drift,6,2,0.003292163116956002,0.003268467840845504
+NL9_20201015 - Saccharine preference test young .xlsx,24h_harmonic,6,2,0.0022867143646780126,0.0024716767561602203
+NL9_20201123 - sucrose preference test PA.xlsx,local_level_state_space,6,2,0.039253274139130205,0.04240468238782795
+NL9_20201123 - sucrose preference test PA.xlsx,constant,6,2,0.03766564063486469,0.03624137195120899
+NL9_20201123 - sucrose preference test PA.xlsx,linear_drift,6,2,0.060447851483537304,0.06997232803842364
+NL9_20201123 - sucrose preference test PA.xlsx,24h_harmonic,6,2,0.05519836172041562,0.051361682270201464
+NR10_20200421 - sucrose preference test AB DD .xlsx,local_level_state_space,5,2,0.08235935841840689,0.11067059214303418
+NR10_20200421 - sucrose preference test AB DD .xlsx,constant,5,2,0.020680515219340792,0.02689816774187061
+NR10_20200421 - sucrose preference test AB DD .xlsx,linear_drift,5,2,0.20828367139732484,0.18606396506755096
+NR10_20200421 - sucrose preference test AB DD .xlsx,24h_harmonic,5,2,0.3771326773223539,0.3104438723411138
+NR1_20200421 - sucrose preference test AB DD .xlsx,local_level_state_space,6,2,0.020165472065588875,0.01975261046557155
+NR1_20200421 - sucrose preference test AB DD .xlsx,constant,6,2,0.01999984278132918,0.022660224351010633
+NR1_20200421 - sucrose preference test AB DD .xlsx,linear_drift,6,2,0.0429185094596508,0.03588498094924681
+NR1_20200421 - sucrose preference test AB DD .xlsx,24h_harmonic,6,2,0.07030706678458234,0.0768227314514679
+NR2_20200421 - sucrose preference test AB DD .xlsx,local_level_state_space,6,2,0.04140705213816635,0.04166596670316977
+NR2_20200421 - sucrose preference test AB DD .xlsx,constant,6,2,0.049271462598360245,0.049555030118806125
+NR2_20200421 - sucrose preference test AB DD .xlsx,linear_drift,6,2,0.013803925843270165,0.013981928343951464
+NR2_20200421 - sucrose preference test AB DD .xlsx,24h_harmonic,6,2,0.041315062724872495,0.04144511022613208
+NR3_20200421 - sucrose preference test AB DD .xlsx,local_level_state_space,6,2,0.05294313651571235,0.04083362967944553
+NR3_20200421 - sucrose preference test AB DD .xlsx,constant,6,2,0.042696638927609804,0.03889336099984018
+NR3_20200421 - sucrose preference test AB DD .xlsx,linear_drift,6,2,0.13279049244109203,0.10079316926769698
+NR3_20200421 - sucrose preference test AB DD .xlsx,24h_harmonic,6,2,0.10035319834608734,0.1267872930077885
+NR4_20200421 - sucrose preference test AB DD .xlsx,local_level_state_space,6,2,0.00949206407096089,0.010360427397943142
+NR4_20200421 - sucrose preference test AB DD .xlsx,constant,6,2,0.025574671377233796,0.019789683069521165
+NR4_20200421 - sucrose preference test AB DD .xlsx,linear_drift,6,2,0.055339385199955446,0.04475413476243191
+NR4_20200421 - sucrose preference test AB DD .xlsx,24h_harmonic,6,2,0.06038835890570875,0.05298817561839041
+NR5_20200421 - sucrose preference test AB DD .xlsx,local_level_state_space,6,2,0.02257506136100971,0.022505966485078098
+NR5_20200421 - sucrose preference test AB DD .xlsx,constant,6,2,0.006441399399418221,0.006404515534113419
+NR5_20200421 - sucrose preference test AB DD .xlsx,linear_drift,6,2,0.0014685638264726126,0.0014235058551245086
+NR5_20200421 - sucrose preference test AB DD .xlsx,24h_harmonic,6,2,0.04672747822775801,0.04662806057461033
+NR6_20200421 - sucrose preference test AB DD .xlsx,local_level_state_space,6,2,0.007713412945013419,0.011704753275580664
+NR6_20200421 - sucrose preference test AB DD .xlsx,constant,6,2,0.015000255506469861,0.003927535240915345
+NR6_20200421 - sucrose preference test AB DD .xlsx,linear_drift,6,2,0.013251300620005825,0.023098909871526265
+NR6_20200421 - sucrose preference test AB DD .xlsx,24h_harmonic,6,2,0.005263776748541924,0.0013639182773247777
+NR7_20200421 - sucrose preference test AB DD .xlsx,local_level_state_space,6,2,0.013230272578547664,0.016978315707253108
+NR7_20200421 - sucrose preference test AB DD .xlsx,constant,6,2,0.01093606930928006,0.008173384375177546
+NR7_20200421 - sucrose preference test AB DD .xlsx,linear_drift,6,2,0.00696915989701894,0.007679605172354028
+NR7_20200421 - sucrose preference test AB DD .xlsx,24h_harmonic,6,2,0.020550221714098173,0.014574573656145062
+NR9_20200421 - sucrose preference test AB DD .xlsx,local_level_state_space,6,2,0.00016105729080659423,0.00017573925556596645
+NR9_20200421 - sucrose preference test AB DD .xlsx,constant,6,2,0.0010068666073201453,0.0009697122333354002
+NR9_20200421 - sucrose preference test AB DD .xlsx,linear_drift,6,2,0.009720895590058691,0.008947230745320075
+NR9_20200421 - sucrose preference test AB DD .xlsx,24h_harmonic,6,2,0.0848007866753466,0.0851425283286112
+R10_20201123 - sucrose preference test AB.xlsx,local_level_state_space,6,2,0.05210772960056719,0.05961894490780057
+R10_20201123 - sucrose preference test AB.xlsx,constant,6,2,0.045867753757569296,0.052749201669241484
+R10_20201123 - sucrose preference test AB.xlsx,linear_drift,6,2,0.10214447706237077,0.11457941036621257
+R10_20201123 - sucrose preference test AB.xlsx,24h_harmonic,6,2,0.037522652606289585,0.042794586024713595
+R11_20200730 - saccharine preference test AB & VB.xlsx,local_level_state_space,6,2,0.06866890245641852,0.07278084815399996
+R11_20200730 - saccharine preference test AB & VB.xlsx,constant,6,2,0.032434869582013526,0.034931978509552666
+R11_20200730 - saccharine preference test AB & VB.xlsx,linear_drift,6,2,0.014943121692926262,0.015308388742079753
+R11_20200730 - saccharine preference test AB & VB.xlsx,24h_harmonic,6,2,0.009552852264891656,0.010211541440593072
+R12_20200730 - saccharine preference test AB & VB.xlsx,local_level_state_space,6,2,0.0023887032700602535,0.002696294155979803
+R12_20200730 - saccharine preference test AB & VB.xlsx,constant,6,2,0.004189154616455431,0.004625562674284218
+R12_20200730 - saccharine preference test AB & VB.xlsx,linear_drift,6,2,0.0016620177038148727,0.0018839841602712958
+R12_20200730 - saccharine preference test AB & VB.xlsx,24h_harmonic,6,2,0.0021602112487171133,0.0024700719690304413
+R13_20200730 - saccharine preference test AB & VB.xlsx,local_level_state_space,6,2,0.0048654914454049,0.004529741377271465
+R13_20200730 - saccharine preference test AB & VB.xlsx,constant,6,2,0.004072883837400796,0.004129261260849337
+R13_20200730 - saccharine preference test AB & VB.xlsx,linear_drift,6,2,0.00408583715050794,0.0041482977633283
+R13_20200730 - saccharine preference test AB & VB.xlsx,24h_harmonic,6,2,0.008973264642097994,0.009801730322169888
+R14_20200730 - saccharine preference test AB & VB.xlsx,local_level_state_space,6,2,0.047157091425389146,0.042055492853609815
+R14_20200730 - saccharine preference test AB & VB.xlsx,constant,6,2,0.01979901977703302,0.016713998531776172
+R14_20200730 - saccharine preference test AB & VB.xlsx,linear_drift,6,2,0.009660272874684465,0.0077909945392085475
+R14_20200730 - saccharine preference test AB & VB.xlsx,24h_harmonic,6,2,0.003207990442939638,0.0038287928289949913
+R15_20200730 - saccharine preference test AB & VB.xlsx,local_level_state_space,6,2,0.002846537357693903,0.002703371685050142
+R15_20200730 - saccharine preference test AB & VB.xlsx,constant,6,2,0.002677655880472671,0.0025898289016399855
+R15_20200730 - saccharine preference test AB & VB.xlsx,linear_drift,6,2,0.00469252317659211,0.0050669449716841605
+R15_20200730 - saccharine preference test AB & VB.xlsx,24h_harmonic,6,2,0.0246548291609932,0.0257054569796411
+R16_20200730 - saccharine preference test AB & VB.xlsx,local_level_state_space,6,2,0.015548902192905775,0.02130588729442025
+R16_20200730 - saccharine preference test AB & VB.xlsx,constant,6,2,0.011926742429854083,0.007292743431675257
+R16_20200730 - saccharine preference test AB & VB.xlsx,linear_drift,6,2,0.010055784526436495,0.014368824943994213
+R16_20200730 - saccharine preference test AB & VB.xlsx,24h_harmonic,6,2,0.006464932404799552,0.00838281102349283
+R17_20200730 - saccharine preference test AB & VB.xlsx,local_level_state_space,6,2,0.02817842279568979,0.01578061868037176
+R17_20200730 - saccharine preference test AB & VB.xlsx,constant,6,2,0.010853712237400066,0.006908761068065248
+R17_20200730 - saccharine preference test AB & VB.xlsx,linear_drift,6,2,0.014705464515472218,0.020675290731754756
+R17_20200730 - saccharine preference test AB & VB.xlsx,24h_harmonic,6,2,0.005404164396129701,0.007689954038330554
+R18_20200730 - saccharine preference test AB & VB.xlsx,local_level_state_space,6,2,0.01483115951968581,0.011139499488991672
+R18_20200730 - saccharine preference test AB & VB.xlsx,constant,6,2,0.01172660600007968,0.008562414440555418
+R18_20200730 - saccharine preference test AB & VB.xlsx,linear_drift,6,2,0.005936440471977413,0.007258011302446491
+R18_20200730 - saccharine preference test AB & VB.xlsx,24h_harmonic,6,2,0.0018588047601865536,0.0024200480914771806
+R19_20200730 - saccharine preference test AB & VB.xlsx,local_level_state_space,6,2,0.03567541638515376,0.036824916354906104
+R19_20200730 - saccharine preference test AB & VB.xlsx,constant,6,2,0.02035119759043011,0.021088332248628733
+R19_20200730 - saccharine preference test AB & VB.xlsx,linear_drift,6,2,0.010269282330514372,0.009903915697746289
+R19_20200730 - saccharine preference test AB & VB.xlsx,24h_harmonic,6,2,0.013239302825260497,0.013229539036420582
+R1_20200421 - sucrose preference test AD .xlsx,local_level_state_space,6,2,0.050279124384873294,0.05573508980143197
+R1_20200421 - sucrose preference test AD .xlsx,constant,6,2,0.055933165888118086,0.0617011410469376
+R1_20200421 - sucrose preference test AD .xlsx,linear_drift,6,2,0.0167388081691481,0.018968689244742126
+R1_20200421 - sucrose preference test AD .xlsx,24h_harmonic,6,2,0.22483868096195664,0.24108508033135176
+R1_20201123 - sucrose preference test AB.xlsx,local_level_state_space,6,2,0.001682564379132793,0.0015681311142381658
+R1_20201123 - sucrose preference test AB.xlsx,constant,6,2,0.001463112363393112,0.0013573675652962592
+R1_20201123 - sucrose preference test AB.xlsx,linear_drift,6,2,0.0016476171170516833,0.0018129629257921328
+R1_20201123 - sucrose preference test AB.xlsx,24h_harmonic,6,2,0.011986007449283345,0.011828248209738091
+R20_20200730 - saccharine preference test AB & VB.xlsx,local_level_state_space,6,2,0.0009064198515322539,0.0009064198515322538
+R20_20200730 - saccharine preference test AB & VB.xlsx,constant,6,2,6.597665245328624e-05,6.597665245328624e-05
+R20_20200730 - saccharine preference test AB & VB.xlsx,linear_drift,6,2,0.04763236909812962,0.04763236909812961
+R20_20200730 - saccharine preference test AB & VB.xlsx,24h_harmonic,6,2,0.09992074324044198,0.099920743240442
+R2_20201123 - sucrose preference test AB.xlsx,local_level_state_space,6,2,0.006558061204684829,0.007000322243148831
+R2_20201123 - sucrose preference test AB.xlsx,constant,6,2,0.006133738312595823,0.006535127219313216
+R2_20201123 - sucrose preference test AB.xlsx,linear_drift,6,2,0.003465629888665323,0.0034551982952132853
+R2_20201123 - sucrose preference test AB.xlsx,24h_harmonic,6,2,0.0043962405238300835,0.004481542692785916
+R3_20201123 - sucrose preference test AB.xlsx,local_level_state_space,6,2,0.011005110173120006,0.01124138266739702
+R3_20201123 - sucrose preference test AB.xlsx,constant,6,2,0.010580144004990095,0.010792239999291131
+R3_20201123 - sucrose preference test AB.xlsx,linear_drift,6,2,0.00905295072840489,0.00884641505839427
+R3_20201123 - sucrose preference test AB.xlsx,24h_harmonic,6,2,0.015456993837932375,0.015113113794981566
+R4_20201123 - sucrose preference test AB.xlsx,local_level_state_space,6,2,0.010820624950005457,0.012565358444609298
+R4_20201123 - sucrose preference test AB.xlsx,constant,6,2,0.010115398055762866,0.011738691135473985
+R4_20201123 - sucrose preference test AB.xlsx,linear_drift,6,2,0.004440163669055749,0.0041146392922737805
+R4_20201123 - sucrose preference test AB.xlsx,24h_harmonic,6,2,0.009149187651471586,0.007969543502372434
+R5_20201123 - sucrose preference test AB.xlsx,local_level_state_space,6,2,0.015007146778071634,0.016354884238068322
+R5_20201123 - sucrose preference test AB.xlsx,constant,6,2,0.013260051128481304,0.014524247018457831
+R5_20201123 - sucrose preference test AB.xlsx,linear_drift,6,2,0.049914318078162094,0.05382833195954206
+R5_20201123 - sucrose preference test AB.xlsx,24h_harmonic,6,2,0.00011032403259039684,0.0001389110311029037
+R6_20201123 - sucrose preference test AB.xlsx,local_level_state_space,6,2,0.00989481963840013,0.010256774287720248
+R6_20201123 - sucrose preference test AB.xlsx,constant,6,2,0.012151163341467913,0.00910521222491307
+R6_20201123 - sucrose preference test AB.xlsx,linear_drift,6,2,0.02437476773663463,0.031130724326652585
+R6_20201123 - sucrose preference test AB.xlsx,24h_harmonic,6,2,0.04809118341784264,0.039523463582115934
+R7_20200421 - sucrose preference test AD .xlsx,local_level_state_space,6,2,0.020141354529809606,0.022121332395762337
+R7_20200421 - sucrose preference test AD .xlsx,constant,6,2,0.02638209837971605,0.028668307844058764
+R7_20200421 - sucrose preference test AD .xlsx,linear_drift,6,2,0.06385889551776368,0.06635859262997505
+R7_20200421 - sucrose preference test AD .xlsx,24h_harmonic,6,2,0.0212480144421366,0.023186323849271686
+R7_20201123 - sucrose preference test AB.xlsx,local_level_state_space,6,2,0.016348607318730723,0.014064168361333344
+R7_20201123 - sucrose preference test AB.xlsx,constant,6,2,0.0156815697814794,0.013450851127134723
+R7_20201123 - sucrose preference test AB.xlsx,linear_drift,6,2,0.006694145004827788,0.005300971727715111
+R7_20201123 - sucrose preference test AB.xlsx,24h_harmonic,6,2,0.05151325467768476,0.04776045616936673
+R8_20201123 - sucrose preference test AB.xlsx,local_level_state_space,6,2,0.01034916309988764,0.010075964095438091
+R8_20201123 - sucrose preference test AB.xlsx,constant,6,2,0.0013662767209444125,0.0014436346232932907
+R8_20201123 - sucrose preference test AB.xlsx,linear_drift,6,2,0.05161801640896663,0.051780668602645644
+R8_20201123 - sucrose preference test AB.xlsx,24h_harmonic,6,2,0.004998381166639719,0.004954557340648313
+R9_20201123 - sucrose preference test AB.xlsx,local_level_state_space,6,2,0.005160122178760851,0.0041565932737230105
+R9_20201123 - sucrose preference test AB.xlsx,constant,6,2,0.001135759563678999,0.0010227843323294588
+R9_20201123 - sucrose preference test AB.xlsx,linear_drift,6,2,0.02616533988056457,0.025104058780980088
+R9_20201123 - sucrose preference test AB.xlsx,24h_harmonic,6,2,0.004851604217676343,0.005881586376049824

@@ -1,0 +1,31 @@
+{
+  "n_animals": 140,
+  "n_fits": 1400,
+  "n_predictions": 11200,
+  "complete_primary_cohort": true,
+  "max_parameter_difference": 0.0,
+  "max_cross_entropy_difference": 8.326672684688674e-17,
+  "max_pseudo_AIC_difference": 2.2737367544323206e-13,
+  "max_prediction_difference": 1.1102230246251565e-16,
+  "elapsed_seconds": 103.37967777252197,
+  "workers": 4,
+  "seeds": "SHA256-derived deterministic labels; six base starts plus freshly fitted nested parents",
+  "saved_parameters_used_as_initial_values": false,
+  "scope": "Fresh primary fits only; no refitting of cross-validation or phase sensitivity analyses",
+  "parameters_match": true,
+  "predictions_match": true,
+  "objectives_match": true,
+  "passed": true,
+  "input_sha256": "cb41d5f99525624af0ae639a2128fd8da56dca51463755d2d245453c06ad7e4d",
+  "model_code_sha256": "1cf7a0fa031eacde72e7ddf296814c14ca7301b378fdac59348d993dab1bc74e",
+  "dependencies": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.5",
+    "scipy": "1.18.1",
+    "numba": "0.67.0"
+  },
+  "threads": {
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1"
+  }
+}

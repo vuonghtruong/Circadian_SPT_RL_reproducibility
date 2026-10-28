@@ -1,0 +1,4 @@
+Genotype,n_animals,n_LD,n_DD,n_female,n_male,age_min,age_max
+AB,17,10,7,6,11,125.0,347.0
+Control,44,22,22,22,22,78.0,403.0
+VB,22,10,12,10,12,163.0,541.0

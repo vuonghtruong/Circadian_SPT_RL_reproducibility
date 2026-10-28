@@ -1,0 +1,9 @@
+reference_model,comparison_model,additional_R2,low,high,n_animals,interpretation
+simple,reward,0.3634802992087616,0.3131227256951334,0.418010256126636,140,descriptive in-sample improvement; models fitted to these observations
+simple,reward_no_swap,0.15636404258253206,0.0700135694374682,0.24567820842408447,140,descriptive in-sample improvement; models fitted to these observations
+simple,full,0.5327907034518657,0.4706378544511448,0.5947756866767755,140,descriptive in-sample improvement; models fitted to these observations
+simple,full_no_swap,0.38979105640287787,0.2907883973134659,0.4870100873962119,140,descriptive in-sample improvement; models fitted to these observations
+simple_no_swap,reward,0.4731785032159507,0.40523233119981006,0.5368602456145416,140,descriptive in-sample improvement; models fitted to these observations
+simple_no_swap,reward_no_swap,0.26606224658972094,0.22340864655362658,0.31219984714102467,140,descriptive in-sample improvement; models fitted to these observations
+simple_no_swap,full,0.6424889074590546,0.5950956825170381,0.687475846531011,140,descriptive in-sample improvement; models fitted to these observations
+simple_no_swap,full_no_swap,0.4994892604100668,0.44447764888939145,0.5565531923479174,140,descriptive in-sample improvement; models fitted to these observations

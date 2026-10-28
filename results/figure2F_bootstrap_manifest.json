@@ -1,0 +1,9 @@
+{
+  "n_animals": 113,
+  "n_sessions": 152,
+  "repeats": 5000,
+  "multiplicity_check_passed": true,
+  "resampled_cluster_rows": 113,
+  "resamples_are_not_independent_animals": true,
+  "no_resample_correlation_p_value": true
+}

@@ -1,0 +1,3 @@
+Sex,n_pairs,n_independent_components,t,p,mean_age_gap_days,max_age_gap_days,test,q
+F,11,8,-1.5416204769408997,0.16706821373624386,13.181818181818182,36.0,exploratory mean matched difference; connected-animal-component robust t,0.33413642747248773
+M,9,9,-0.3617153565567587,0.7269322937429421,13.666666666666666,26.0,exploratory mean matched difference; connected-animal-component robust t,0.7269322937429421

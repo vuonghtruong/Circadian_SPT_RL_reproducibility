@@ -1,0 +1,2 @@
+estimate,ci_low,ci_high,n_animals,n_sessions,cluster_slope_p,bootstrap_repeats
+-0.0008790222763541,-0.20203214357303317,0.20486475599639836,113,152,0.9932973208805528,5000

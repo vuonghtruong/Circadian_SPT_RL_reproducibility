@@ -1,0 +1,7 @@
+lighting,Genotype,n_animals,n_female,n_male,age_min,age_max
+DD,AB,7,2,5,125.0,347.0
+DD,Control,22,10,12,78.0,200.0
+DD,VB,12,5,7,163.0,281.0
+LD,AB,10,4,6,229.0,250.0
+LD,Control,22,12,10,158.0,403.0
+LD,VB,10,5,5,219.0,541.0

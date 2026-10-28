@@ -1,0 +1,4 @@
+family,n_animals,pooled_within_R2,low,high,interpretation
+Simple (best switch variant),140,0.3086094598524465,0.2423120328644865,0.37530471888654016,"best variant chosen on the same fitted data; optimistic descriptive comparison, not held-out performance"
+Reward (best switch variant),140,0.6396852079722861,0.5843275395244348,0.6889533357958315,"best variant chosen on the same fitted data; optimistic descriptive comparison, not held-out performance"
+Full (best switch variant),140,0.8011892840851891,0.7681435815534912,0.832536302779811,"best variant chosen on the same fitted data; optimistic descriptive comparison, not held-out performance"

@@ -1,0 +1,4 @@
+fluid,reference,n,n_reference,n_animals,n_shared_animals,difference,t,p,test,q_bh
+glucose,water,10,20,30,0,-0.17160456950691866,-3.727050090839386,0.004082529520692179,two-sided difference in means; Welch t (independent animals); one mean per animal and fluid,0.004082529520692179
+sucrose,water,83,20,93,10,0.07755445807244261,4.2551309518577565,5.0210804464220975e-05,two-sided difference in means; animal-cluster-robust OLS t; one mean per animal and fluid,7.531620669633147e-05
+saccharin,water,69,20,69,20,0.1849163333357719,13.520392920415508,6.006091922958095e-21,two-sided difference in means; animal-cluster-robust OLS t; one mean per animal and fluid,1.8018275768874285e-20

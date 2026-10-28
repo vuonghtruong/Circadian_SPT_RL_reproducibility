@@ -1,0 +1,4 @@
+# Preserve distributed reference bytes for SHA-256 verification.
+* -text
+*.pdf binary
+*.png binary

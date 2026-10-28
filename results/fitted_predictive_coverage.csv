@@ -1,0 +1,6 @@
+metric,n,coverage_95
+SD,140,0.7428571428571429
+adjacent_bin_change,140,0.6571428571428571
+amplitude,140,0.8357142857142857
+night_minus_day,140,0.8
+phase_offset_h,138,0.8115942028985508

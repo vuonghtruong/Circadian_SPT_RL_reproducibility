@@ -1,0 +1,141 @@
+plot_order,MouseID,best_model
+1,NL10_20201123 - sucrose preference test PA.xlsx,bias
+2,NL1_20201015 - Saccharine preference test young .xlsx,bias
+3,NL9_20201015 - Saccharine preference test young .xlsx,bias
+4,NL8_20201015 - Saccharine preference test young .xlsx,simple_no_swap
+5,L10_20200421 - sucrose preference test Male DD.xlsx,reward
+6,L12_20200521 - sucrose preference test PA .xlsx,reward
+7,L13_20200730 - saccharine preference test AB .xlsx,reward
+8,L14_20200521 - sucrose preference test LD .xlsx,reward
+9,L16_20200521 - sucrose preference test PA .xlsx,reward
+10,L2_20200609 - sucrose preference test LD .xlsx,reward
+11,L4_20200421 - sucrose preference test Male DD.xlsx,reward
+12,L5_20200421 - sucrose preference test Male DD.xlsx,reward
+13,L6_20200609 - sucrose preference test LD .xlsx,reward
+14,L8_20200609 - sucrose preference test LD .xlsx,reward
+15,NL3_20201015 - Saccharine preference test young .xlsx,reward
+16,NL5_20200421 - sucrose preference test old VB DD SPT.xlsx,reward
+17,R20_20200730 - saccharine preference test AB & VB.xlsx,reward
+18,R4_20201123 - sucrose preference test AB.xlsx,reward
+19,R8_20201123 - sucrose preference test AB.xlsx,reward
+20,R9_20201123 - sucrose preference test AB.xlsx,reward
+21,L12_20200521 - sucrose preference test LD .xlsx,reward_no_swap
+22,L19_20200730 - saccharine preference test AB .xlsx,reward_no_swap
+23,L7_20200403 - sucrose preference test Female DD.xlsx,reward_no_swap
+24,L7_20200505 - sucrose preference test PA .xlsx,reward_no_swap
+25,NL2_20200421 - sucrose preference test old VB DD SPT.xlsx,reward_no_swap
+26,NL4_20200421 - sucrose preference test old VB DD SPT.xlsx,reward_no_swap
+27,NL7_20201015 - Saccharine preference test young .xlsx,reward_no_swap
+28,R15_20200730 - saccharine preference test AB & VB.xlsx,reward_no_swap
+29,R16_20200730 - saccharine preference test AB & VB.xlsx,reward_no_swap
+30,R18_20200730 - saccharine preference test AB & VB.xlsx,reward_no_swap
+31,L10_20200505 - sucrose preference test PA .xlsx,full
+32,L10_20200609 - sucrose preference test LD .xlsx,full
+33,L11_20200521 - sucrose preference test LD .xlsx,full
+34,L11_20200521 - sucrose preference test PA .xlsx,full
+35,L11_20200909 - saccharine preference test LD.xlsx,full
+36,L13_20200521 - sucrose preference test LD .xlsx,full
+37,L13_20200521 - sucrose preference test PA .xlsx,full
+38,L13_20200909 - saccharine preference test LD.xlsx,full
+39,L14_20200521 - sucrose preference test PA .xlsx,full
+40,L14_20200909 - saccharine preference test LD.xlsx,full
+41,L15_20200521 - sucrose preference test LD .xlsx,full
+42,L15_20200521 - sucrose preference test PA .xlsx,full
+43,L15_20200730 - saccharine preference test AB .xlsx,full
+44,L16_20200521 - sucrose preference test LD .xlsx,full
+45,L16_20200730 - saccharine preference test AB .xlsx,full
+46,L16_20200909 - saccharine preference test LD.xlsx,full
+47,L17_20200521 - sucrose preference test LD .xlsx,full
+48,L17_20200521 - sucrose preference test PA .xlsx,full
+49,L17_20200730 - saccharine preference test AB .xlsx,full
+50,L17_20200909 - saccharine preference test LD.xlsx,full
+51,L18_20200730 - saccharine preference test AB .xlsx,full
+52,L18_20200909 - saccharine preference test LD.xlsx,full
+53,L19_20200521 - sucrose preference test LD .xlsx,full
+54,L19_20200521 - sucrose preference test PA .xlsx,full
+55,L1_20200310 - Sucrose preference test LD.xlsx,full
+56,L1_20200403 - sucrose preference test Female DD.xlsx,full
+57,L1_20200421 - sucrose preference test Male DD.xlsx,full
+58,L1_20200505 - sucrose preference test PA .xlsx,full
+59,L1_20200609 - sucrose preference test LD .xlsx,full
+60,L20_20200521 - sucrose preference test LD .xlsx,full
+61,L20_20200521 - sucrose preference test PA .xlsx,full
+62,L20_20200730 - saccharine preference test AB .xlsx,full
+63,L2_20200403 - sucrose preference test Female DD.xlsx,full
+64,L2_20200421 - sucrose preference test Male DD.xlsx,full
+65,L3_20200310 - Sucrose preference test LD.xlsx,full
+66,L3_20200403 - sucrose preference test Female DD.xlsx,full
+67,L3_20200421 - sucrose preference test Male DD.xlsx,full
+68,L3_20200505 - sucrose preference test PA .xlsx,full
+69,L3_20200609 - sucrose preference test LD .xlsx,full
+70,L4_20200403 - sucrose preference test Female DD.xlsx,full
+71,L4_20200505 - sucrose preference test PA .xlsx,full
+72,L4_20200609 - sucrose preference test LD .xlsx,full
+73,L5_20200310 - Sucrose preference test LD.xlsx,full
+74,L5_20200609 - sucrose preference test LD .xlsx,full
+75,L6_20200403 - sucrose preference test Female DD.xlsx,full
+76,L6_20200421 - sucrose preference test Male DD.xlsx,full
+77,L7_20200609 - sucrose preference test LD .xlsx,full
+78,L8_20200310 - Sucrose preference test LD.xlsx,full
+79,L9_20200421 - sucrose preference test Male DD.xlsx,full
+80,L9_20200609 - sucrose preference test LD .xlsx,full
+81,NL2_20201015 - Saccharine preference test young .xlsx,full
+82,NL3_20200421 - sucrose preference test old VB DD SPT.xlsx,full
+83,NL4_20201015 - Saccharine preference test young .xlsx,full
+84,NL6_20200421 - sucrose preference test old VB DD SPT.xlsx,full
+85,NL7_20200421 - sucrose preference test old VB DD SPT.xlsx,full
+86,NL9_20201123 - sucrose preference test PA.xlsx,full
+87,NR1_20200421 - sucrose preference test AB DD .xlsx,full
+88,NR3_20200421 - sucrose preference test AB DD .xlsx,full
+89,NR4_20200421 - sucrose preference test AB DD .xlsx,full
+90,NR5_20200421 - sucrose preference test AB DD .xlsx,full
+91,NR6_20200421 - sucrose preference test AB DD .xlsx,full
+92,NR9_20200421 - sucrose preference test AB DD .xlsx,full
+93,R11_20200730 - saccharine preference test AB & VB.xlsx,full
+94,R13_20200730 - saccharine preference test AB & VB.xlsx,full
+95,R17_20200730 - saccharine preference test AB & VB.xlsx,full
+96,R19_20200730 - saccharine preference test AB & VB.xlsx,full
+97,R1_20201123 - sucrose preference test AB.xlsx,full
+98,R2_20201123 - sucrose preference test AB.xlsx,full
+99,R3_20201123 - sucrose preference test AB.xlsx,full
+100,R5_20201123 - sucrose preference test AB.xlsx,full
+101,R6_20201123 - sucrose preference test AB.xlsx,full
+102,R7_20200421 - sucrose preference test AD .xlsx,full
+103,R7_20201123 - sucrose preference test AB.xlsx,full
+104,L10_20200310 - Sucrose preference test LD.xlsx,full_no_swap
+105,L10_20200403 - sucrose preference test Female DD.xlsx,full_no_swap
+106,L11_20200730 - saccharine preference test AB .xlsx,full_no_swap
+107,L12_20200730 - saccharine preference test AB .xlsx,full_no_swap
+108,L12_20200909 - saccharine preference test LD.xlsx,full_no_swap
+109,L14_20200730 - saccharine preference test AB .xlsx,full_no_swap
+110,L15_20200909 - saccharine preference test LD.xlsx,full_no_swap
+111,L18_20200521 - sucrose preference test LD .xlsx,full_no_swap
+112,L18_20200521 - sucrose preference test PA .xlsx,full_no_swap
+113,L19_20200909 - saccharine preference test LD.xlsx,full_no_swap
+114,L20_20200909 - saccharine preference test LD.xlsx,full_no_swap
+115,L2_20200310 - Sucrose preference test LD.xlsx,full_no_swap
+116,L4_20200310 - Sucrose preference test LD.xlsx,full_no_swap
+117,L5_20200403 - sucrose preference test Female DD.xlsx,full_no_swap
+118,L5_20200505 - sucrose preference test PA .xlsx,full_no_swap
+119,L6_20200310 - Sucrose preference test LD.xlsx,full_no_swap
+120,L7_20200310 - Sucrose preference test LD.xlsx,full_no_swap
+121,L7_20200421 - sucrose preference test Male DD.xlsx,full_no_swap
+122,L8_20200403 - sucrose preference test Female DD.xlsx,full_no_swap
+123,L8_20200421 - sucrose preference test Male DD.xlsx,full_no_swap
+124,L8_20200505 - sucrose preference test PA .xlsx,full_no_swap
+125,L9_20200310 - Sucrose preference test LD.xlsx,full_no_swap
+126,L9_20200403 - sucrose preference test Female DD.xlsx,full_no_swap
+127,NL10_20200421 - sucrose preference test old VB DD SPT.xlsx,full_no_swap
+128,NL10_20201015 - Saccharine preference test young .xlsx,full_no_swap
+129,NL1_20200421 - sucrose preference test old VB DD SPT.xlsx,full_no_swap
+130,NL5_20201015 - Saccharine preference test young .xlsx,full_no_swap
+131,NL6_20201015 - Saccharine preference test young .xlsx,full_no_swap
+132,NL8_20200421 - sucrose preference test old VB DD SPT.xlsx,full_no_swap
+133,NL9_20200421 - sucrose preference test old VB DD SPT.xlsx,full_no_swap
+134,NR10_20200421 - sucrose preference test AB DD .xlsx,full_no_swap
+135,NR2_20200421 - sucrose preference test AB DD .xlsx,full_no_swap
+136,NR7_20200421 - sucrose preference test AB DD .xlsx,full_no_swap
+137,R10_20201123 - sucrose preference test AB.xlsx,full_no_swap
+138,R12_20200730 - saccharine preference test AB & VB.xlsx,full_no_swap
+139,R14_20200730 - saccharine preference test AB & VB.xlsx,full_no_swap
+140,R1_20200421 - sucrose preference test AD .xlsx,full_no_swap

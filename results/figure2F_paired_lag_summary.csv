@@ -1,0 +1,7 @@
+scope,n_animals,n_sessions,mean_lag_h,ci_low_h,ci_high_h,p_exchange,locking_R,bootstrap_repeats,method,q_bh_three_groups
+Control_age_all,113,152,1.1692382274438988,-0.8579309054211608,3.170142320276013,0.2385761423857614,0.2324874595814922,10000.0,mean session lag phasor per animal; animal bootstrap; centered circular-percentile interval; animal-level intake/preference exchange test,0.42145785421457854
+Control_age_F,52,68,1.3102064213199598,-2.1574942556592007,4.525994106852718,0.39846015398460155,0.22634895343800915,10000.0,mean session lag phasor per animal; animal bootstrap; centered circular-percentile interval; animal-level intake/preference exchange test,0.42145785421457854
+Control_age_M,61,84,1.0549402123201392,-1.6702072422398386,3.798697086085034,0.42145785421457854,0.23795819677427657,10000.0,mean session lag phasor per animal; animal bootstrap; centered circular-percentile interval; animal-level intake/preference exchange test,0.42145785421457854
+Control_age_earliest,113,113,1.505326097788831,-0.5995480522764374,3.4692936644931907,0.14458554144585542,0.25074004489593993,10000.0,mean session lag phasor per animal; animal bootstrap; centered circular-percentile interval; animal-level intake/preference exchange test,
+Control_age_both_nominal,2,2,,,,,,,,
+Modeling_all,140,140,1.522396282464457,-0.34434907900290246,3.429981780481219,0.12138786121387861,0.2404191628690538,10000.0,mean session lag phasor per animal; animal bootstrap; centered circular-percentile interval; animal-level intake/preference exchange test,

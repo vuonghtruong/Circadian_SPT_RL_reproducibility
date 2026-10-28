@@ -1,0 +1,21 @@
+Sex,water_session,palatable_session,water_age,palatable_age,age_gap_days,water_total_g,palatable_total_g,water_animal_id,palatable_animal_id,pair_component
+F,L10_20201015 - water preference test.xlsx,L8_20200909 - saccharine preference test Old.xlsx,305.0,310.0,5.0,13.507000000000005,19.563000000000002,inferred_6fa10a9f4b08,inferred_085b45ab809d,inferred_6fa10a9f4b08
+F,L16_20201015 - water preference test2.xlsx,L14_20200730 - saccharine preference test AB .xlsx,208.0,206.0,2.0,18.01299999999999,15.099999999999987,inferred_132679a9373f,inferred_7823ed040782,inferred_132679a9373f
+F,L17_20201015 - water preference test2.xlsx,L15_20200730 - saccharine preference test AB .xlsx,208.0,206.0,2.0,13.693000000000012,18.72,inferred_d4c9d685aeee,inferred_d09ef53df12d,inferred_d4c9d685aeee
+F,L18_20201015 - water preference test2.xlsx,R11_20200730 - saccharine preference test AB & VB.xlsx,208.0,211.0,3.0,14.716999999999999,31.119999999999997,inferred_fc42f0ace548,inferred_ec94fcf8b6b7,inferred_fc42f0ace548
+F,L19_20201015 - water preference test2.xlsx,R12_20200730 - saccharine preference test AB & VB.xlsx,208.0,211.0,3.0,16.14699999999999,10.960000000000008,inferred_b6cfa18b23d6,inferred_5b8c89db2b08,inferred_b6cfa18b23d6
+F,L20_20201015 - water preference test2.xlsx,R13_20200730 - saccharine preference test AB & VB.xlsx,208.0,211.0,3.0,11.388999999999996,19.18,inferred_9c543b5aabc3,inferred_c45d433a16ff,inferred_9c543b5aabc3
+F,L5_20201015 - water preference test.xlsx,R7_20200421 - sucrose preference test AD .xlsx,420.0,403.0,17.0,15.104,17.299999999999997,inferred_3458cec71c07,inferred_a9a6086f90e8,inferred_01c0970518de
+F,L6_20201015 - water preference test.xlsx,L5_20200909 - saccharine preference test Old.xlsx,420.0,384.0,36.0,19.426000000000002,18.727000000000004,inferred_e38e689a69a1,inferred_3458cec71c07,inferred_01c0970518de
+F,L7_20201015 - water preference test.xlsx,L6_20200909 - saccharine preference test Old.xlsx,420.0,384.0,36.0,21.583,30.263,inferred_01c0970518de,inferred_e38e689a69a1,inferred_01c0970518de
+F,L8_20201015 - water preference test.xlsx,R1_20200421 - sucrose preference test AD .xlsx,346.0,362.0,16.0,16.804999999999993,19.0,inferred_085b45ab809d,inferred_e0145bc3c300,inferred_6fa10a9f4b08
+F,L9_20201015 - water preference test.xlsx,NL6_20200730 - saccharine preference test Old VB .xlsx,346.0,324.0,22.0,21.266999999999996,14.840000000000003,inferred_46c4db6f6655,inferred_9031300d4822,inferred_46c4db6f6655
+M,L11_20201015 - water preference test2.xlsx,L11_20200730 - saccharine preference test AB .xlsx,208.0,206.0,2.0,14.163000000000011,19.799999999999997,inferred_ce64a0cb2a52,inferred_fde89f6f0a0b,inferred_ce64a0cb2a52
+M,L12_20201015 - water preference test2.xlsx,NR5_20200421 - sucrose preference test AB DD .xlsx,208.0,200.0,8.0,12.90400000000001,10.14,inferred_76f0df1b5e40,inferred_e43c3f1f82a7,inferred_76f0df1b5e40
+M,L13_20201015 - water preference test2.xlsx,NR6_20200421 - sucrose preference test AB DD .xlsx,208.0,200.0,8.0,13.692000000000007,9.900000000000006,inferred_6afae54fc31e,inferred_7652b52323a8,inferred_6afae54fc31e
+M,L14_20201015 - water preference test2.xlsx,L11_20191219 - Glucose preference test.xlsx,208.0,217.0,9.0,12.406000000000006,6.459999999999994,inferred_c24a01b2c129,inferred_9a46e6abd341,inferred_c24a01b2c129
+M,L15_20201015 - water preference test2.xlsx,L12_20191219 - Glucose preference test.xlsx,208.0,217.0,9.0,12.167000000000002,19.799999999999997,inferred_8d785662cb0e,inferred_7a4ab4a1a0b8,inferred_8d785662cb0e
+M,L1_20201015 - water preference test.xlsx,NR2_20200730 - saccharine preference test Old AB .xlsx,427.0,447.0,20.0,20.962000000000003,21.379999999999995,inferred_dc8bb6b20c2b,inferred_e84c4882362d,inferred_dc8bb6b20c2b
+M,L2_20201015 - water preference test.xlsx,NR3_20200730 - saccharine preference test Old AB .xlsx,427.0,447.0,20.0,17.446000000000012,18.88000000000001,inferred_eab0fe938368,inferred_7d358e62bd59,inferred_eab0fe938368
+M,L3_20201015 - water preference test.xlsx,NR4_20200730 - saccharine preference test Old AB .xlsx,427.0,406.0,21.0,15.09299999999999,16.92,inferred_d1243a802b78,inferred_20e8ef07d7bb,inferred_d1243a802b78
+M,L4_20201015 - water preference test.xlsx,R6_20201015 - sucrose preference test Old VB.xlsx,427.0,453.0,26.0,17.078000000000017,17.339,inferred_7c453996b37f,inferred_38cdcfcf08f0,inferred_7c453996b37f

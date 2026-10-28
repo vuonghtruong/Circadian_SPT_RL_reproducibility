@@ -1,0 +1,361 @@
+MouseID,N_assumed,shape,model,cross_entropy,pseudo_AIC,converged
+L10_20200310 - Sucrose preference test LD.xlsx,100,sine,bias,0.6150958670623088,125.01917341246175,True
+L10_20200310 - Sucrose preference test LD.xlsx,100,sine,linear_bias,0.6146955027960306,126.93910055920611,True
+L10_20200310 - Sucrose preference test LD.xlsx,100,sine,simple,0.6669254623365304,139.38509246730607,True
+L10_20200310 - Sucrose preference test LD.xlsx,100,sine,reward,0.6212799991822047,134.25599983644094,True
+L10_20200310 - Sucrose preference test LD.xlsx,100,sine,full,0.6162606760853253,135.25213521706507,True
+L10_20200310 - Sucrose preference test LD.xlsx,100,square,bias,0.6150958670623088,125.01917341246175,True
+L10_20200310 - Sucrose preference test LD.xlsx,100,square,linear_bias,0.6146955027960319,126.93910055920638,True
+L10_20200310 - Sucrose preference test LD.xlsx,100,square,simple,0.6669254623365304,139.38509246730607,True
+L10_20200310 - Sucrose preference test LD.xlsx,100,square,reward,0.6212799991835878,134.25599983671756,True
+L10_20200310 - Sucrose preference test LD.xlsx,100,square,full,0.6164967665891021,135.29935331782042,True
+L10_20200310 - Sucrose preference test LD.xlsx,1000,sine,bias,0.6150958670623088,1232.1917341246176,True
+L10_20200310 - Sucrose preference test LD.xlsx,1000,sine,linear_bias,0.6146955027960319,1233.3910055920637,True
+L10_20200310 - Sucrose preference test LD.xlsx,1000,sine,simple,0.6154589241441203,1236.9178482882405,True
+L10_20200310 - Sucrose preference test LD.xlsx,1000,sine,reward,0.6080031574593167,1226.0063149186333,True
+L10_20200310 - Sucrose preference test LD.xlsx,1000,sine,full,0.6077687596191833,1227.5375192383667,True
+L10_20200310 - Sucrose preference test LD.xlsx,1000,square,bias,0.6150958670623088,1232.1917341246176,True
+L10_20200310 - Sucrose preference test LD.xlsx,1000,square,linear_bias,0.6146955027960258,1233.3910055920517,True
+L10_20200310 - Sucrose preference test LD.xlsx,1000,square,simple,0.6154589241441203,1236.9178482882405,True
+L10_20200310 - Sucrose preference test LD.xlsx,1000,square,reward,0.6123357811960682,1234.6715623921366,True
+L10_20200310 - Sucrose preference test LD.xlsx,1000,square,full,0.6123357811960682,1236.6715623921366,True
+L10_20200310 - Sucrose preference test LD.xlsx,10000,sine,bias,0.6150958670623088,12303.917341246175,True
+L10_20200310 - Sucrose preference test LD.xlsx,10000,sine,linear_bias,0.6146955027960257,12297.910055920514,True
+L10_20200310 - Sucrose preference test LD.xlsx,10000,sine,simple,0.6151308929679484,12308.617859358968,True
+L10_20200310 - Sucrose preference test LD.xlsx,10000,sine,reward,0.6075384471126395,12160.76894225279,True
+L10_20200310 - Sucrose preference test LD.xlsx,10000,sine,full,0.607379912460025,12159.5982492005,True
+L10_20200310 - Sucrose preference test LD.xlsx,10000,square,bias,0.6150958670623088,12303.917341246175,True
+L10_20200310 - Sucrose preference test LD.xlsx,10000,square,linear_bias,0.6146955027960319,12297.910055920638,True
+L10_20200310 - Sucrose preference test LD.xlsx,10000,square,simple,0.6151308929679484,12308.617859358968,True
+L10_20200310 - Sucrose preference test LD.xlsx,10000,square,reward,0.6119544884771059,12249.089769542117,True
+L10_20200310 - Sucrose preference test LD.xlsx,10000,square,full,0.6119544884771059,12251.089769542117,True
+L12_20200909 - saccharine preference test LD.xlsx,100,sine,bias,0.5110266049079666,104.20532098159332,True
+L12_20200909 - saccharine preference test LD.xlsx,100,sine,linear_bias,0.5005684089971398,104.11368179942797,True
+L12_20200909 - saccharine preference test LD.xlsx,100,sine,simple,0.5161063063174247,109.22126126348495,True
+L12_20200909 - saccharine preference test LD.xlsx,100,sine,reward,0.5084806807492501,111.69613614985002,True
+L12_20200909 - saccharine preference test LD.xlsx,100,sine,full,0.5084806807492501,113.69613614985002,True
+L12_20200909 - saccharine preference test LD.xlsx,100,square,bias,0.5110266049079666,104.20532098159332,True
+L12_20200909 - saccharine preference test LD.xlsx,100,square,linear_bias,0.5005684089971432,104.11368179942863,True
+L12_20200909 - saccharine preference test LD.xlsx,100,square,simple,0.5161063063174247,109.22126126348495,True
+L12_20200909 - saccharine preference test LD.xlsx,100,square,reward,0.5141098055079781,112.82196110159563,True
+L12_20200909 - saccharine preference test LD.xlsx,100,square,full,0.5141098055079781,114.82196110159563,True
+L12_20200909 - saccharine preference test LD.xlsx,1000,sine,bias,0.5110266049079666,1024.0532098159333,True
+L12_20200909 - saccharine preference test LD.xlsx,1000,sine,linear_bias,0.5005684089971507,1005.1368179943014,True
+L12_20200909 - saccharine preference test LD.xlsx,1000,sine,simple,0.5106572436230845,1027.314487246169,True
+L12_20200909 - saccharine preference test LD.xlsx,1000,sine,reward,0.4980801061330581,1006.1602122661162,True
+L12_20200909 - saccharine preference test LD.xlsx,1000,sine,full,0.49594817290150106,1003.8963458030021,True
+L12_20200909 - saccharine preference test LD.xlsx,1000,square,bias,0.5110266049079666,1024.0532098159333,True
+L12_20200909 - saccharine preference test LD.xlsx,1000,square,linear_bias,0.5005684089971507,1005.1368179943014,True
+L12_20200909 - saccharine preference test LD.xlsx,1000,square,simple,0.5106572436230845,1027.314487246169,True
+L12_20200909 - saccharine preference test LD.xlsx,1000,square,reward,0.5052014235414773,1020.4028470829547,True
+L12_20200909 - saccharine preference test LD.xlsx,1000,square,full,0.5043303729886384,1020.6607459772767,True
+L12_20200909 - saccharine preference test LD.xlsx,10000,sine,bias,0.5110266049079666,10222.532098159332,True
+L12_20200909 - saccharine preference test LD.xlsx,10000,sine,linear_bias,0.5005684089971442,10015.368179942883,True
+L12_20200909 - saccharine preference test LD.xlsx,10000,sine,simple,0.5101473135905387,10208.946271810773,True
+L12_20200909 - saccharine preference test LD.xlsx,10000,sine,reward,0.4980610717085199,9971.221434170398,True
+L12_20200909 - saccharine preference test LD.xlsx,10000,sine,full,0.4948744972862574,9909.489945725147,True
+L12_20200909 - saccharine preference test LD.xlsx,10000,square,bias,0.5110266049079666,10222.532098159332,True
+L12_20200909 - saccharine preference test LD.xlsx,10000,square,linear_bias,0.5005684089971507,10015.368179943014,True
+L12_20200909 - saccharine preference test LD.xlsx,10000,square,simple,0.5101473135905368,10208.946271810735,True
+L12_20200909 - saccharine preference test LD.xlsx,10000,square,reward,0.5052247373874711,10114.494747749422,True
+L12_20200909 - saccharine preference test LD.xlsx,10000,square,full,0.5037969141938241,10087.938283876481,True
+L15_20200909 - saccharine preference test LD.xlsx,100,sine,bias,0.5840238922099878,118.80477844199757,True
+L15_20200909 - saccharine preference test LD.xlsx,100,sine,linear_bias,0.5470271822804429,113.40543645608858,True
+L15_20200909 - saccharine preference test LD.xlsx,100,sine,simple,0.5981746870722459,125.63493741444917,True
+L15_20200909 - saccharine preference test LD.xlsx,100,sine,reward,0.5638791419825877,122.77582839651754,True
+L15_20200909 - saccharine preference test LD.xlsx,100,sine,full,0.5540701329807034,122.81402659614068,True
+L15_20200909 - saccharine preference test LD.xlsx,100,square,bias,0.5840238922099878,118.80477844199757,True
+L15_20200909 - saccharine preference test LD.xlsx,100,square,linear_bias,0.5470271822804429,113.40543645608858,True
+L15_20200909 - saccharine preference test LD.xlsx,100,square,simple,0.5981746870722459,125.63493741444917,True
+L15_20200909 - saccharine preference test LD.xlsx,100,square,reward,0.585074712661917,127.0149425323834,True
+L15_20200909 - saccharine preference test LD.xlsx,100,square,full,0.585074712661917,129.0149425323834,True
+L15_20200909 - saccharine preference test LD.xlsx,1000,sine,bias,0.5840238922099878,1170.0477844199756,True
+L15_20200909 - saccharine preference test LD.xlsx,1000,sine,linear_bias,0.5470271822804429,1098.0543645608857,True
+L15_20200909 - saccharine preference test LD.xlsx,1000,sine,simple,0.5849848175164631,1175.9696350329264,True
+L15_20200909 - saccharine preference test LD.xlsx,1000,sine,reward,0.5540185369177647,1118.0370738355293,True
+L15_20200909 - saccharine preference test LD.xlsx,1000,sine,full,0.5442595350560707,1100.5190701121414,True
+L15_20200909 - saccharine preference test LD.xlsx,1000,square,bias,0.5840238922099878,1170.0477844199756,True
+L15_20200909 - saccharine preference test LD.xlsx,1000,square,linear_bias,0.5470271822804429,1098.0543645608857,True
+L15_20200909 - saccharine preference test LD.xlsx,1000,square,simple,0.5849848175164345,1175.969635032869,True
+L15_20200909 - saccharine preference test LD.xlsx,1000,square,reward,0.5527015977578462,1115.4031955156925,True
+L15_20200909 - saccharine preference test LD.xlsx,1000,square,full,0.5526272283703638,1117.2544567407276,True
+L15_20200909 - saccharine preference test LD.xlsx,10000,sine,bias,0.5840238922099878,11682.477844199757,True
+L15_20200909 - saccharine preference test LD.xlsx,10000,sine,linear_bias,0.5470271822804429,10944.543645608857,True
+L15_20200909 - saccharine preference test LD.xlsx,10000,sine,simple,0.5841162788554705,11688.32557710941,True
+L15_20200909 - saccharine preference test LD.xlsx,10000,sine,reward,0.5482856480827759,10975.712961655518,True
+L15_20200909 - saccharine preference test LD.xlsx,10000,sine,full,0.533785248831606,10687.704976632122,True
+L15_20200909 - saccharine preference test LD.xlsx,10000,square,bias,0.5840238922099878,11682.477844199757,True
+L15_20200909 - saccharine preference test LD.xlsx,10000,square,linear_bias,0.547027182280442,10944.543645608841,True
+L15_20200909 - saccharine preference test LD.xlsx,10000,square,simple,0.5841162788554705,11688.32557710941,True
+L15_20200909 - saccharine preference test LD.xlsx,10000,square,reward,0.5636212699731009,11282.425399462018,True
+L15_20200909 - saccharine preference test LD.xlsx,10000,square,full,0.5636212699729393,11284.425399458785,True
+L19_20200521 - sucrose preference test LD .xlsx,100,sine,bias,0.6642374072626116,134.84748145252232,True
+L19_20200521 - sucrose preference test LD .xlsx,100,sine,linear_bias,0.6640276937385693,136.80553874771385,True
+L19_20200521 - sucrose preference test LD .xlsx,100,sine,simple,0.6601869483204752,138.03738966409503,True
+L19_20200521 - sucrose preference test LD .xlsx,100,sine,reward,0.6593019504534167,141.86039009068332,True
+L19_20200521 - sucrose preference test LD .xlsx,100,sine,full,0.6554939151211403,143.09878302422806,True
+L19_20200521 - sucrose preference test LD .xlsx,100,square,bias,0.6642374072626116,134.84748145252232,True
+L19_20200521 - sucrose preference test LD .xlsx,100,square,linear_bias,0.6640276937385697,136.80553874771394,True
+L19_20200521 - sucrose preference test LD .xlsx,100,square,simple,0.6601869483204752,138.03738966409503,True
+L19_20200521 - sucrose preference test LD .xlsx,100,square,reward,0.659865371851382,141.9730743702764,True
+L19_20200521 - sucrose preference test LD .xlsx,100,square,full,0.6591275332097589,143.8255066419518,True
+L19_20200521 - sucrose preference test LD .xlsx,1000,sine,bias,0.6642374072626116,1330.474814525223,True
+L19_20200521 - sucrose preference test LD .xlsx,1000,sine,linear_bias,0.6640276937385693,1332.0553874771385,True
+L19_20200521 - sucrose preference test LD .xlsx,1000,sine,simple,0.6605333910410602,1327.0667820821204,True
+L19_20200521 - sucrose preference test LD .xlsx,1000,sine,reward,0.6597271554596023,1329.4543109192045,True
+L19_20200521 - sucrose preference test LD .xlsx,1000,sine,full,0.6551392779856675,1322.278555971335,True
+L19_20200521 - sucrose preference test LD .xlsx,1000,square,bias,0.6642374072626116,1330.474814525223,True
+L19_20200521 - sucrose preference test LD .xlsx,1000,square,linear_bias,0.6640276937385691,1332.055387477138,True
+L19_20200521 - sucrose preference test LD .xlsx,1000,square,simple,0.6604307739770143,1326.8615479540288,True
+L19_20200521 - sucrose preference test LD .xlsx,1000,square,reward,0.6595214124323149,1329.0428248646297,True
+L19_20200521 - sucrose preference test LD .xlsx,1000,square,full,0.6586983027413937,1329.3966054827874,True
+L19_20200521 - sucrose preference test LD .xlsx,10000,sine,bias,0.6642374072626116,13286.748145252232,True
+L19_20200521 - sucrose preference test LD .xlsx,10000,sine,linear_bias,0.6640276937385697,13284.553874771394,True
+L19_20200521 - sucrose preference test LD .xlsx,10000,sine,simple,0.6592174821875394,13190.349643750787,True
+L19_20200521 - sucrose preference test LD .xlsx,10000,sine,reward,0.6592174821864532,13194.349643729063,True
+L19_20200521 - sucrose preference test LD .xlsx,10000,sine,full,0.6551308384371797,13114.616768743594,True
+L19_20200521 - sucrose preference test LD .xlsx,10000,square,bias,0.6642374072626116,13286.748145252232,True
+L19_20200521 - sucrose preference test LD .xlsx,10000,square,linear_bias,0.6640276937385693,13284.553874771385,True
+L19_20200521 - sucrose preference test LD .xlsx,10000,square,simple,0.6592174821875394,13190.349643750787,True
+L19_20200521 - sucrose preference test LD .xlsx,10000,square,reward,0.6592174821864532,13194.349643729063,True
+L19_20200521 - sucrose preference test LD .xlsx,10000,square,full,0.6585838767680009,13183.677535360019,True
+L20_20200909 - saccharine preference test LD.xlsx,100,sine,bias,0.5177461750760142,105.54923501520284,True
+L20_20200909 - saccharine preference test LD.xlsx,100,sine,linear_bias,0.5099979140946995,105.9995828189399,True
+L20_20200909 - saccharine preference test LD.xlsx,100,sine,simple,0.5412053303527178,114.24106607054355,True
+L20_20200909 - saccharine preference test LD.xlsx,100,sine,reward,0.5260729458572355,115.2145891714471,True
+L20_20200909 - saccharine preference test LD.xlsx,100,sine,full,0.5260729458572317,117.21458917144635,True
+L20_20200909 - saccharine preference test LD.xlsx,100,square,bias,0.5177461750760142,105.54923501520284,True
+L20_20200909 - saccharine preference test LD.xlsx,100,square,linear_bias,0.5099979140946995,105.9995828189399,True
+L20_20200909 - saccharine preference test LD.xlsx,100,square,simple,0.5412053303527178,114.24106607054355,True
+L20_20200909 - saccharine preference test LD.xlsx,100,square,reward,0.5290137952832548,115.80275905665096,True
+L20_20200909 - saccharine preference test LD.xlsx,100,square,full,0.5267277760038133,117.34555520076265,True
+L20_20200909 - saccharine preference test LD.xlsx,1000,sine,bias,0.5177461750760142,1037.4923501520284,True
+L20_20200909 - saccharine preference test LD.xlsx,1000,sine,linear_bias,0.5099979140946995,1023.995828189399,True
+L20_20200909 - saccharine preference test LD.xlsx,1000,sine,simple,0.5194948427614696,1044.9896855229392,True
+L20_20200909 - saccharine preference test LD.xlsx,1000,sine,reward,0.5086889282976856,1027.3778565953712,True
+L20_20200909 - saccharine preference test LD.xlsx,1000,sine,full,0.5082057234799868,1028.4114469599735,True
+L20_20200909 - saccharine preference test LD.xlsx,1000,square,bias,0.5177461750760142,1037.4923501520284,True
+L20_20200909 - saccharine preference test LD.xlsx,1000,square,linear_bias,0.5099979140946564,1023.9958281893129,True
+L20_20200909 - saccharine preference test LD.xlsx,1000,square,simple,0.519494842761467,1044.989685522934,True
+L20_20200909 - saccharine preference test LD.xlsx,1000,square,reward,0.5136669725736542,1037.3339451473084,True
+L20_20200909 - saccharine preference test LD.xlsx,1000,square,full,0.5136669725736542,1039.3339451473084,True
+L20_20200909 - saccharine preference test LD.xlsx,10000,sine,bias,0.5177461750760142,10356.923501520283,True
+L20_20200909 - saccharine preference test LD.xlsx,10000,sine,linear_bias,0.5099979140946614,10203.958281893229,True
+L20_20200909 - saccharine preference test LD.xlsx,10000,sine,simple,0.5179074190990631,10364.148381981262,True
+L20_20200909 - saccharine preference test LD.xlsx,10000,sine,reward,0.5071119299506263,10152.238599012526,True
+L20_20200909 - saccharine preference test LD.xlsx,10000,sine,full,0.5006954623160776,10025.909246321553,True
+L20_20200909 - saccharine preference test LD.xlsx,10000,square,bias,0.5177461750760142,10356.923501520283,True
+L20_20200909 - saccharine preference test LD.xlsx,10000,square,linear_bias,0.5099979140946591,10203.958281893183,True
+L20_20200909 - saccharine preference test LD.xlsx,10000,square,simple,0.5179074190990631,10364.148381981262,True
+L20_20200909 - saccharine preference test LD.xlsx,10000,square,reward,0.5119711053600973,10249.422107201945,True
+L20_20200909 - saccharine preference test LD.xlsx,10000,square,full,0.5119557448218197,10251.114896436395,True
+L4_20200421 - sucrose preference test Male DD.xlsx,100,sine,bias,0.6920817133419599,140.416342668392,True
+L4_20200421 - sucrose preference test Male DD.xlsx,100,sine,linear_bias,0.6874012138223654,141.48024276447308,True
+L4_20200421 - sucrose preference test Male DD.xlsx,100,sine,simple,0.4715552858269564,100.31105716539128,True
+L4_20200421 - sucrose preference test Male DD.xlsx,100,sine,reward,0.4563719252939856,101.27438505879712,True
+L4_20200421 - sucrose preference test Male DD.xlsx,100,sine,full,0.4563719252939856,103.27438505879712,True
+L4_20200421 - sucrose preference test Male DD.xlsx,100,square,bias,0.6920817133419599,140.416342668392,True
+L4_20200421 - sucrose preference test Male DD.xlsx,100,square,linear_bias,0.6874012138223682,141.48024276447364,True
+L4_20200421 - sucrose preference test Male DD.xlsx,100,square,simple,0.4715552858269564,100.31105716539128,True
+L4_20200421 - sucrose preference test Male DD.xlsx,100,square,reward,0.4524902248187326,100.49804496374651,True
+L4_20200421 - sucrose preference test Male DD.xlsx,100,square,full,0.4524891428418371,102.49782856836742,True
+L4_20200421 - sucrose preference test Male DD.xlsx,1000,sine,bias,0.6920817133419599,1386.1634266839199,True
+L4_20200421 - sucrose preference test Male DD.xlsx,1000,sine,linear_bias,0.6874012138223697,1378.8024276447395,True
+L4_20200421 - sucrose preference test Male DD.xlsx,1000,sine,simple,0.4722995736857025,950.599147371405,True
+L4_20200421 - sucrose preference test Male DD.xlsx,1000,sine,reward,0.4521292995433135,914.258599086627,True
+L4_20200421 - sucrose preference test Male DD.xlsx,1000,sine,full,0.4521292995433135,916.258599086627,True
+L4_20200421 - sucrose preference test Male DD.xlsx,1000,square,bias,0.6920817133419599,1386.1634266839199,True
+L4_20200421 - sucrose preference test Male DD.xlsx,1000,square,linear_bias,0.6874012138223675,1378.802427644735,True
+L4_20200421 - sucrose preference test Male DD.xlsx,1000,square,simple,0.47090077907731726,947.8015581546346,True
+L4_20200421 - sucrose preference test Male DD.xlsx,1000,square,reward,0.46367173455808763,937.3434691161752,True
+L4_20200421 - sucrose preference test Male DD.xlsx,1000,square,full,0.4632573296415073,938.5146592830146,True
+L4_20200421 - sucrose preference test Male DD.xlsx,10000,sine,bias,0.6920817133419599,13843.634266839197,True
+L4_20200421 - sucrose preference test Male DD.xlsx,10000,sine,linear_bias,0.6874012138223657,13752.024276447315,True
+L4_20200421 - sucrose preference test Male DD.xlsx,10000,sine,simple,0.47267707776293205,9459.541555258642,True
+L4_20200421 - sucrose preference test Male DD.xlsx,10000,sine,reward,0.45148158502400965,9039.631700480193,True
+L4_20200421 - sucrose preference test Male DD.xlsx,10000,sine,full,0.45148156689530755,9041.63133790615,True
+L4_20200421 - sucrose preference test Male DD.xlsx,10000,square,bias,0.6920817133419599,13843.634266839197,True
+L4_20200421 - sucrose preference test Male DD.xlsx,10000,square,linear_bias,0.6874012138223654,13752.024276447308,True
+L4_20200421 - sucrose preference test Male DD.xlsx,10000,square,simple,0.47267707776293205,9459.541555258642,True
+L4_20200421 - sucrose preference test Male DD.xlsx,10000,square,reward,0.4574452447729004,9158.904895458008,True
+L4_20200421 - sucrose preference test Male DD.xlsx,10000,square,full,0.4564143101273816,9140.286202547632,True
+L7_20200403 - sucrose preference test Female DD.xlsx,100,sine,bias,0.6270562019143788,127.41124038287576,True
+L7_20200403 - sucrose preference test Female DD.xlsx,100,sine,linear_bias,0.6264896523406465,129.2979304681293,True
+L7_20200403 - sucrose preference test Female DD.xlsx,100,sine,simple,0.6360916363863329,133.21832727726658,True
+L7_20200403 - sucrose preference test Female DD.xlsx,100,sine,reward,0.6328794019490027,136.57588038980055,True
+L7_20200403 - sucrose preference test Female DD.xlsx,100,sine,full,0.6316418781479969,138.32837562959938,True
+L7_20200403 - sucrose preference test Female DD.xlsx,100,square,bias,0.6270562019143788,127.41124038287576,True
+L7_20200403 - sucrose preference test Female DD.xlsx,100,square,linear_bias,0.6264896523406488,129.29793046812978,True
+L7_20200403 - sucrose preference test Female DD.xlsx,100,square,simple,0.6360916363863329,133.21832727726658,True
+L7_20200403 - sucrose preference test Female DD.xlsx,100,square,reward,0.6360916363863329,137.21832727726658,True
+L7_20200403 - sucrose preference test Female DD.xlsx,100,square,full,0.6339691167376569,138.79382334753137,True
+L7_20200403 - sucrose preference test Female DD.xlsx,1000,sine,bias,0.6270562019143788,1256.1124038287576,True
+L7_20200403 - sucrose preference test Female DD.xlsx,1000,sine,linear_bias,0.6264896523406488,1256.9793046812977,True
+L7_20200403 - sucrose preference test Female DD.xlsx,1000,sine,simple,0.6277519536973044,1261.5039073946089,True
+L7_20200403 - sucrose preference test Female DD.xlsx,1000,sine,reward,0.624081459110617,1258.162918221234,True
+L7_20200403 - sucrose preference test Female DD.xlsx,1000,sine,full,0.6234408723225593,1258.8817446451185,True
+L7_20200403 - sucrose preference test Female DD.xlsx,1000,square,bias,0.6270562019143788,1256.1124038287576,True
+L7_20200403 - sucrose preference test Female DD.xlsx,1000,square,linear_bias,0.6264896523406467,1256.9793046812933,True
+L7_20200403 - sucrose preference test Female DD.xlsx,1000,square,simple,0.6277519536973044,1261.5039073946089,True
+L7_20200403 - sucrose preference test Female DD.xlsx,1000,square,reward,0.6240711776487248,1258.1423552974495,True
+L7_20200403 - sucrose preference test Female DD.xlsx,1000,square,full,0.6240711776487248,1260.1423552974495,True
+L7_20200403 - sucrose preference test Female DD.xlsx,10000,sine,bias,0.6270562019143788,12543.124038287577,True
+L7_20200403 - sucrose preference test Female DD.xlsx,10000,sine,linear_bias,0.626489652340648,12533.79304681296,True
+L7_20200403 - sucrose preference test Female DD.xlsx,10000,sine,simple,0.6271231923369659,12548.463846739318,True
+L7_20200403 - sucrose preference test Female DD.xlsx,10000,sine,reward,0.6225875812786171,12461.751625572342,True
+L7_20200403 - sucrose preference test Female DD.xlsx,10000,sine,full,0.6225875812786171,12463.751625572342,True
+L7_20200403 - sucrose preference test Female DD.xlsx,10000,square,bias,0.6270562019143788,12543.124038287577,True
+L7_20200403 - sucrose preference test Female DD.xlsx,10000,square,linear_bias,0.6264896523406487,12533.793046812974,True
+L7_20200403 - sucrose preference test Female DD.xlsx,10000,square,simple,0.6271231923369824,12548.463846739649,True
+L7_20200403 - sucrose preference test Female DD.xlsx,10000,square,reward,0.6233358068545318,12476.716137090636,True
+L7_20200403 - sucrose preference test Female DD.xlsx,10000,square,full,0.6117368781033249,12246.737562066497,True
+L9_20200609 - sucrose preference test LD .xlsx,100,sine,bias,0.6616493491180524,134.32986982361047,True
+L9_20200609 - sucrose preference test LD .xlsx,100,sine,linear_bias,0.6546077557602263,134.92155115204525,True
+L9_20200609 - sucrose preference test LD .xlsx,100,sine,simple,0.6578316796420552,137.56633592841104,True
+L9_20200609 - sucrose preference test LD .xlsx,100,sine,reward,0.6510232005530824,140.20464011061648,True
+L9_20200609 - sucrose preference test LD .xlsx,100,sine,full,0.6459603731804194,141.19207463608387,True
+L9_20200609 - sucrose preference test LD .xlsx,100,square,bias,0.6616493491180524,134.32986982361047,True
+L9_20200609 - sucrose preference test LD .xlsx,100,square,linear_bias,0.6546077557602263,134.92155115204525,True
+L9_20200609 - sucrose preference test LD .xlsx,100,square,simple,0.6578316796420552,137.56633592841104,True
+L9_20200609 - sucrose preference test LD .xlsx,100,square,reward,0.6437163840860203,138.74327681720405,True
+L9_20200609 - sucrose preference test LD .xlsx,100,square,full,0.6437163840855104,140.74327681710207,True
+L9_20200609 - sucrose preference test LD .xlsx,1000,sine,bias,0.6616493491180524,1325.2986982361049,True
+L9_20200609 - sucrose preference test LD .xlsx,1000,sine,linear_bias,0.6546077557602263,1313.2155115204528,True
+L9_20200609 - sucrose preference test LD .xlsx,1000,sine,simple,0.6571700199639072,1320.3400399278144,True
+L9_20200609 - sucrose preference test LD .xlsx,1000,sine,reward,0.64541083254233,1300.82166508466,True
+L9_20200609 - sucrose preference test LD .xlsx,1000,sine,full,0.6433398041838199,1298.6796083676397,True
+L9_20200609 - sucrose preference test LD .xlsx,1000,square,bias,0.6616493491180524,1325.2986982361049,True
+L9_20200609 - sucrose preference test LD .xlsx,1000,square,linear_bias,0.6546077557602263,1313.2155115204528,True
+L9_20200609 - sucrose preference test LD .xlsx,1000,square,simple,0.6571700199639072,1320.3400399278144,True
+L9_20200609 - sucrose preference test LD .xlsx,1000,square,reward,0.6440899989855016,1298.179997971003,True
+L9_20200609 - sucrose preference test LD .xlsx,1000,square,full,0.6418237164386764,1295.647432877353,True
+L9_20200609 - sucrose preference test LD .xlsx,10000,sine,bias,0.6616493491180524,13234.986982361048,True
+L9_20200609 - sucrose preference test LD .xlsx,10000,sine,linear_bias,0.6546077557602263,13096.155115204527,True
+L9_20200609 - sucrose preference test LD .xlsx,10000,sine,simple,0.6565993488052542,13137.986976105083,True
+L9_20200609 - sucrose preference test LD .xlsx,10000,sine,reward,0.6450953946364882,12911.907892729765,True
+L9_20200609 - sucrose preference test LD .xlsx,10000,sine,full,0.6436896370131111,12885.792740262223,True
+L9_20200609 - sucrose preference test LD .xlsx,10000,square,bias,0.6616493491180524,13234.986982361048,True
+L9_20200609 - sucrose preference test LD .xlsx,10000,square,linear_bias,0.6546077557602263,13096.155115204527,True
+L9_20200609 - sucrose preference test LD .xlsx,10000,square,simple,0.6565993488052542,13137.986976105083,True
+L9_20200609 - sucrose preference test LD .xlsx,10000,square,reward,0.643991831021383,12889.83662042766,True
+L9_20200609 - sucrose preference test LD .xlsx,10000,square,full,0.6417103104925657,12846.206209851312,True
+NL5_20201015 - Saccharine preference test young .xlsx,100,sine,bias,0.5304456623868211,108.08913247736422,True
+NL5_20201015 - Saccharine preference test young .xlsx,100,sine,linear_bias,0.5303030760302587,110.06061520605175,True
+NL5_20201015 - Saccharine preference test young .xlsx,100,sine,simple,0.5314548142313039,112.29096284626078,True
+NL5_20201015 - Saccharine preference test young .xlsx,100,sine,reward,0.5314331200235023,116.28662400470046,True
+NL5_20201015 - Saccharine preference test young .xlsx,100,sine,full,0.5201913485704912,116.03826971409825,True
+NL5_20201015 - Saccharine preference test young .xlsx,100,square,bias,0.5304456623868211,108.08913247736422,True
+NL5_20201015 - Saccharine preference test young .xlsx,100,square,linear_bias,0.5303030760302562,110.06061520605124,True
+NL5_20201015 - Saccharine preference test young .xlsx,100,square,simple,0.5314548142313039,112.29096284626078,True
+NL5_20201015 - Saccharine preference test young .xlsx,100,square,reward,0.5314543793216759,116.29087586433519,True
+NL5_20201015 - Saccharine preference test young .xlsx,100,square,full,0.5314543793216671,118.29087586433342,True
+NL5_20201015 - Saccharine preference test young .xlsx,1000,sine,bias,0.5304456623868211,1062.8913247736423,True
+NL5_20201015 - Saccharine preference test young .xlsx,1000,sine,linear_bias,0.5303030760302807,1064.6061520605615,True
+NL5_20201015 - Saccharine preference test young .xlsx,1000,sine,simple,0.5296659669045467,1065.3319338090935,True
+NL5_20201015 - Saccharine preference test young .xlsx,1000,sine,reward,0.5296659669045454,1069.3319338090907,True
+NL5_20201015 - Saccharine preference test young .xlsx,1000,sine,full,0.515601871310429,1043.203742620858,True
+NL5_20201015 - Saccharine preference test young .xlsx,1000,square,bias,0.5304456623868211,1062.8913247736423,True
+NL5_20201015 - Saccharine preference test young .xlsx,1000,square,linear_bias,0.5303030760302558,1064.6061520605117,True
+NL5_20201015 - Saccharine preference test young .xlsx,1000,square,simple,0.529665966904552,1065.3319338091042,True
+NL5_20201015 - Saccharine preference test young .xlsx,1000,square,reward,0.5295970458139204,1069.1940916278409,True
+NL5_20201015 - Saccharine preference test young .xlsx,1000,square,full,0.5286473978860187,1069.2947957720373,True
+NL5_20201015 - Saccharine preference test young .xlsx,10000,sine,bias,0.5304456623868211,10610.913247736422,True
+NL5_20201015 - Saccharine preference test young .xlsx,10000,sine,linear_bias,0.530303076030255,10610.061520605099,True
+NL5_20201015 - Saccharine preference test young .xlsx,10000,sine,simple,0.5295693850490164,10597.387700980327,True
+NL5_20201015 - Saccharine preference test young .xlsx,10000,sine,reward,0.5237210953388135,10484.42190677627,True
+NL5_20201015 - Saccharine preference test young .xlsx,10000,sine,full,0.515555134213691,10323.102684273821,True
+NL5_20201015 - Saccharine preference test young .xlsx,10000,square,bias,0.5304456623868211,10610.913247736422,True
+NL5_20201015 - Saccharine preference test young .xlsx,10000,square,linear_bias,0.5303030760302551,10610.0615206051,True
+NL5_20201015 - Saccharine preference test young .xlsx,10000,square,simple,0.5295693850490164,10597.387700980327,True
+NL5_20201015 - Saccharine preference test young .xlsx,10000,square,reward,0.5295663739048236,10601.327478096473,True
+NL5_20201015 - Saccharine preference test young .xlsx,10000,square,full,0.5284748675442893,10581.497350885786,True
+NR5_20200421 - sucrose preference test AB DD .xlsx,100,sine,bias,0.44576789616422685,91.15357923284537,True
+NR5_20200421 - sucrose preference test AB DD .xlsx,100,sine,linear_bias,0.440143351396834,92.0286702793668,True
+NR5_20200421 - sucrose preference test AB DD .xlsx,100,sine,simple,0.45661448103419516,97.32289620683903,True
+NR5_20200421 - sucrose preference test AB DD .xlsx,100,sine,reward,0.4471683681252193,99.43367362504387,True
+NR5_20200421 - sucrose preference test AB DD .xlsx,100,sine,full,0.4471683681252193,101.43367362504387,True
+NR5_20200421 - sucrose preference test AB DD .xlsx,100,square,bias,0.44576789616422685,91.15357923284537,True
+NR5_20200421 - sucrose preference test AB DD .xlsx,100,square,linear_bias,0.4401433513968507,92.02867027937013,True
+NR5_20200421 - sucrose preference test AB DD .xlsx,100,square,simple,0.45661448103419516,97.32289620683903,True
+NR5_20200421 - sucrose preference test AB DD .xlsx,100,square,reward,0.45280430381580283,100.56086076316056,True
+NR5_20200421 - sucrose preference test AB DD .xlsx,100,square,full,0.4499553691440558,101.99107382881117,True
+NR5_20200421 - sucrose preference test AB DD .xlsx,1000,sine,bias,0.44576789616422685,893.5357923284537,True
+NR5_20200421 - sucrose preference test AB DD .xlsx,1000,sine,linear_bias,0.44014335139683525,884.2867027936705,True
+NR5_20200421 - sucrose preference test AB DD .xlsx,1000,sine,simple,0.4462502538836774,898.5005077673547,True
+NR5_20200421 - sucrose preference test AB DD .xlsx,1000,sine,reward,0.44200456114794306,894.0091222958861,True
+NR5_20200421 - sucrose preference test AB DD .xlsx,1000,sine,full,0.4368137231674991,885.6274463349982,True
+NR5_20200421 - sucrose preference test AB DD .xlsx,1000,square,bias,0.44576789616422685,893.5357923284537,True
+NR5_20200421 - sucrose preference test AB DD .xlsx,1000,square,linear_bias,0.4401433513968366,884.2867027936732,True
+NR5_20200421 - sucrose preference test AB DD .xlsx,1000,square,simple,0.4462502538836774,898.5005077673547,True
+NR5_20200421 - sucrose preference test AB DD .xlsx,1000,square,reward,0.44624511449469006,902.4902289893802,True
+NR5_20200421 - sucrose preference test AB DD .xlsx,1000,square,full,0.4255448985157736,863.0897970315472,True
+NR5_20200421 - sucrose preference test AB DD .xlsx,10000,sine,bias,0.44576789616422685,8917.357923284537,True
+NR5_20200421 - sucrose preference test AB DD .xlsx,10000,sine,linear_bias,0.4401433513970546,8806.867027941093,True
+NR5_20200421 - sucrose preference test AB DD .xlsx,10000,sine,simple,0.4458120278275325,8922.24055655065,True
+NR5_20200421 - sucrose preference test AB DD .xlsx,10000,sine,reward,0.44153621927111375,8840.724385422274,True
+NR5_20200421 - sucrose preference test AB DD .xlsx,10000,sine,full,0.43084199223106434,8628.839844621287,True
+NR5_20200421 - sucrose preference test AB DD .xlsx,10000,square,bias,0.44576789616422685,8917.357923284537,True
+NR5_20200421 - sucrose preference test AB DD .xlsx,10000,square,linear_bias,0.4401433513968341,8806.867027936682,True
+NR5_20200421 - sucrose preference test AB DD .xlsx,10000,square,simple,0.4458120278275325,8922.24055655065,True
+NR5_20200421 - sucrose preference test AB DD .xlsx,10000,square,reward,0.44581025495416116,8926.205099083223,True
+NR5_20200421 - sucrose preference test AB DD .xlsx,10000,square,full,0.42446487443682257,8501.29748873645,True
+R18_20200730 - saccharine preference test AB & VB.xlsx,100,sine,bias,0.5476777688501303,111.53555377002606,True
+R18_20200730 - saccharine preference test AB & VB.xlsx,100,sine,linear_bias,0.5409940505710535,112.19881011421072,True
+R18_20200730 - saccharine preference test AB & VB.xlsx,100,sine,simple,0.5417385957414852,114.34771914829705,True
+R18_20200730 - saccharine preference test AB & VB.xlsx,100,sine,reward,0.5323366435716472,116.46732871432944,True
+R18_20200730 - saccharine preference test AB & VB.xlsx,100,sine,full,0.5318473748978397,118.36947497956794,True
+R18_20200730 - saccharine preference test AB & VB.xlsx,100,square,bias,0.5476777688501303,111.53555377002606,True
+R18_20200730 - saccharine preference test AB & VB.xlsx,100,square,linear_bias,0.5409940505710535,112.19881011421072,True
+R18_20200730 - saccharine preference test AB & VB.xlsx,100,square,simple,0.5417385957414852,114.34771914829705,True
+R18_20200730 - saccharine preference test AB & VB.xlsx,100,square,reward,0.5361875455499883,117.23750910999766,True
+R18_20200730 - saccharine preference test AB & VB.xlsx,100,square,full,0.5361875455499883,119.23750910999766,True
+R18_20200730 - saccharine preference test AB & VB.xlsx,1000,sine,bias,0.5476777688501303,1097.3555377002606,True
+R18_20200730 - saccharine preference test AB & VB.xlsx,1000,sine,linear_bias,0.5409940505710535,1085.988101142107,True
+R18_20200730 - saccharine preference test AB & VB.xlsx,1000,sine,simple,0.5422058276141111,1090.4116552282221,True
+R18_20200730 - saccharine preference test AB & VB.xlsx,1000,sine,reward,0.5315331362891244,1073.0662725782488,True
+R18_20200730 - saccharine preference test AB & VB.xlsx,1000,sine,full,0.5312013128029154,1074.4026256058307,True
+R18_20200730 - saccharine preference test AB & VB.xlsx,1000,square,bias,0.5476777688501303,1097.3555377002606,True
+R18_20200730 - saccharine preference test AB & VB.xlsx,1000,square,linear_bias,0.5409940505710535,1085.988101142107,True
+R18_20200730 - saccharine preference test AB & VB.xlsx,1000,square,simple,0.5422058276141111,1090.4116552282221,True
+R18_20200730 - saccharine preference test AB & VB.xlsx,1000,square,reward,0.5336344221133684,1077.2688442267367,True
+R18_20200730 - saccharine preference test AB & VB.xlsx,1000,square,full,0.5336344221133684,1079.2688442267367,True
+R18_20200730 - saccharine preference test AB & VB.xlsx,10000,sine,bias,0.5476777688501303,10955.555377002605,True
+R18_20200730 - saccharine preference test AB & VB.xlsx,10000,sine,linear_bias,0.5409940505710535,10823.88101142107,True
+R18_20200730 - saccharine preference test AB & VB.xlsx,10000,sine,simple,0.542245747781137,10850.91495562274,True
+R18_20200730 - saccharine preference test AB & VB.xlsx,10000,sine,reward,0.5315065015210667,10640.130030421335,True
+R18_20200730 - saccharine preference test AB & VB.xlsx,10000,sine,full,0.5314684749831546,10641.369499663093,True
+R18_20200730 - saccharine preference test AB & VB.xlsx,10000,square,bias,0.5476777688501303,10955.555377002605,True
+R18_20200730 - saccharine preference test AB & VB.xlsx,10000,square,linear_bias,0.5409940505710535,10823.88101142107,True
+R18_20200730 - saccharine preference test AB & VB.xlsx,10000,square,simple,0.542245747781137,10850.91495562274,True
+R18_20200730 - saccharine preference test AB & VB.xlsx,10000,square,reward,0.5345141376197495,10700.28275239499,True
+R18_20200730 - saccharine preference test AB & VB.xlsx,10000,square,full,0.5343340923627191,10698.681847254382,True
+R9_20201123 - sucrose preference test AB.xlsx,100,sine,bias,0.6769994615327644,137.39989230655289,True
+R9_20201123 - sucrose preference test AB.xlsx,100,sine,linear_bias,0.6744932417289632,138.89864834579265,True
+R9_20201123 - sucrose preference test AB.xlsx,100,sine,simple,0.6749018063204835,140.9803612640967,True
+R9_20201123 - sucrose preference test AB.xlsx,100,sine,reward,0.6735152333587126,144.7030466717425,True
+R9_20201123 - sucrose preference test AB.xlsx,100,sine,full,0.6663082397881461,145.26164795762924,True
+R9_20201123 - sucrose preference test AB.xlsx,100,square,bias,0.6769994615327644,137.39989230655289,True
+R9_20201123 - sucrose preference test AB.xlsx,100,square,linear_bias,0.6744932417289632,138.89864834579265,True
+R9_20201123 - sucrose preference test AB.xlsx,100,square,simple,0.6749018063204835,140.9803612640967,True
+R9_20201123 - sucrose preference test AB.xlsx,100,square,reward,0.6731879325448415,144.6375865089683,True
+R9_20201123 - sucrose preference test AB.xlsx,100,square,full,0.6701562502668864,146.03125005337728,True
+R9_20201123 - sucrose preference test AB.xlsx,1000,sine,bias,0.6769994615327644,1355.9989230655287,True
+R9_20201123 - sucrose preference test AB.xlsx,1000,sine,linear_bias,0.6744932417289632,1352.9864834579264,True
+R9_20201123 - sucrose preference test AB.xlsx,1000,sine,simple,0.672739333935745,1351.47866787149,True
+R9_20201123 - sucrose preference test AB.xlsx,1000,sine,reward,0.6724166374026064,1354.8332748052128,True
+R9_20201123 - sucrose preference test AB.xlsx,1000,sine,full,0.6724166374023501,1356.8332748047003,True
+R9_20201123 - sucrose preference test AB.xlsx,1000,square,bias,0.6769994615327644,1355.9989230655287,True
+R9_20201123 - sucrose preference test AB.xlsx,1000,square,linear_bias,0.6744932417289632,1352.9864834579264,True
+R9_20201123 - sucrose preference test AB.xlsx,1000,square,simple,0.672739333935745,1351.47866787149,True
+R9_20201123 - sucrose preference test AB.xlsx,1000,square,reward,0.6721830124431883,1354.3660248863766,True
+R9_20201123 - sucrose preference test AB.xlsx,1000,square,full,0.6682881274454284,1348.576254890857,True
+R9_20201123 - sucrose preference test AB.xlsx,10000,sine,bias,0.6769994615327644,13541.989230655287,True
+R9_20201123 - sucrose preference test AB.xlsx,10000,sine,linear_bias,0.6744932417289632,13493.864834579264,True
+R9_20201123 - sucrose preference test AB.xlsx,10000,sine,simple,0.6720784629310987,13447.569258621976,True
+R9_20201123 - sucrose preference test AB.xlsx,10000,sine,reward,0.6718152308084031,13446.304616168061,True
+R9_20201123 - sucrose preference test AB.xlsx,10000,sine,full,0.6661355986593382,13334.711973186764,True
+R9_20201123 - sucrose preference test AB.xlsx,10000,square,bias,0.6769994615327644,13541.989230655287,True
+R9_20201123 - sucrose preference test AB.xlsx,10000,square,linear_bias,0.6744932417289632,13493.864834579264,True
+R9_20201123 - sucrose preference test AB.xlsx,10000,square,simple,0.6720784629310987,13447.569258621976,True
+R9_20201123 - sucrose preference test AB.xlsx,10000,square,reward,0.6716672941612796,13443.345883225591,True
+R9_20201123 - sucrose preference test AB.xlsx,10000,square,full,0.6681200297230416,13374.400594460833,True

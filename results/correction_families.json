@@ -1,0 +1,74 @@
+[
+  {
+    "table": "figure1B_tests",
+    "family": "Fluid allocation versus 0.5; four fluids",
+    "n_tests": 4,
+    "raw_column": "p",
+    "adjusted_column": "q_bh",
+    "method": "Benjamini\u2013Hochberg FDR"
+  },
+  {
+    "table": "figure1B_vs_water_tests",
+    "family": "Fluid comparisons versus water; three contrasts",
+    "n_tests": 3,
+    "raw_column": "p",
+    "adjusted_column": "q_bh",
+    "method": "Benjamini\u2013Hochberg FDR"
+  },
+  {
+    "table": "figure2C_tests",
+    "family": "Day/night differences; four outcomes",
+    "n_tests": 4,
+    "raw_column": "p",
+    "adjusted_column": "q_bh",
+    "method": "Benjamini\u2013Hochberg FDR"
+  },
+  {
+    "table": "figure2DE_tests",
+    "family": "Age\u2013phase circular tests; two measures \u00d7 two sexes",
+    "n_tests": 4,
+    "raw_column": "circular_permutation_p",
+    "adjusted_column": "circular_q_bh",
+    "method": "Benjamini\u2013Hochberg FDR"
+  },
+  {
+    "table": "figure2IJ_tests",
+    "family": "Entrainment comparisons; two measures \u00d7 three conditions",
+    "n_tests": 6,
+    "raw_column": "p",
+    "adjusted_column": "q_bh",
+    "method": "Benjamini\u2013Hochberg FDR"
+  },
+  {
+    "table": "figure3A_tests",
+    "family": "Simulated day/night differences; five models",
+    "n_tests": 5,
+    "raw_column": "p",
+    "adjusted_column": "q_bh",
+    "method": "Benjamini\u2013Hochberg FDR"
+  },
+  {
+    "table": "figure2F_paired_lag_summary",
+    "family": "Paired acrophase lag; pooled/female/male",
+    "n_tests": 3,
+    "raw_column": "p_exchange",
+    "adjusted_column": "q_bh_three_groups",
+    "method": "Benjamini\u2013Hochberg FDR"
+  },
+  {
+    "table": "genotype_vs_control_phase_tests",
+    "family": "Pooled LD/DD genotype phase vectors; two measures \u00d7 two genotypes",
+    "n_tests": 4,
+    "raw_column": "p",
+    "adjusted_column": "q_BH",
+    "method": "Benjamini\u2013Hochberg FDR"
+  },
+  {
+    "table": "genotype_phase_lighting_stratified_sensitivity",
+    "family": "Lighting-stratified permutation sensitivity for pooled genotype comparisons",
+    "n_tests": 4,
+    "raw_column": "p",
+    "adjusted_column": "q_BH",
+    "method": "Benjamini\u2013Hochberg FDR"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "exploratory": true,
+  "statistic": "absolute difference between genotype and Control mean complex unit phase vectors; timing and concentration jointly",
+  "correction": "BH FDR across four pooled tests",
+  "sampling_unit": "one earliest eligible sucrose recording per likely animal across pooled LD/early DD",
+  "permutations": 999999,
+  "all_estimable_phases_included": true,
+  "rhythmicity_p_filter": false,
+  "independent_BH_checks_agree": true,
+  "eligible_count": 83,
+  "selected_count": 83,
+  "repeated_sessions_removed": 0,
+  "limitations": [
+    "This tests phase-vector organization, not equality of the whole intake or preference profile.",
+    "Age, sex, batch and lighting proportions are not matched.",
+    "Acrophases from weak cosinor fits can be uncertain.",
+    "Pooling estimates combined LD/early-DD patterns, not identical effects in each condition.",
+    "Nonsignificance does not establish equivalence or absence of genotype effects."
+  ],
+  "source_sha256": {
+    "data/analysis_bins.csv": "cb41d5f99525624af0ae639a2128fd8da56dca51463755d2d245453c06ad7e4d",
+    "results/paired_phases.csv": "0307bb842740c31baffc9a27c0beb7c383594aa2dd344b12e0cc03f453a89afe"
+  },
+  "primary_permutation": "Unrestricted animal-label permutation across the pooled LD/early-DD sample",
+  "sensitivity": "Lighting-stratified label permutation with a separate BH FDR family of four comparisons"
+}

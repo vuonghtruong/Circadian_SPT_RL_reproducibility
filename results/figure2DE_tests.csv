@@ -1,0 +1,5 @@
+metric,Sex,n_sessions,n_animals,linear_slope_h_per_day,linear_cluster_p,circular_linear_R2,circular_permutation_p,interpretation,circular_q_bh
+total_phase,F,68,52,-0.009475608990486464,0.07524536621215393,0.05341233068270257,0.26,straight line is descriptive on 0–24 scale; circular sensitivity uses earliest age session,0.4646666666666666
+total_phase,M,84,61,-0.010428242666286341,0.03220223364572991,0.03635085925368353,0.3485,straight line is descriptive on 0–24 scale; circular sensitivity uses earliest age session,0.4646666666666666
+pref_phase,F,68,52,-0.0061669513983885395,0.4446518350963118,0.028144616895740437,0.475,straight line is descriptive on 0–24 scale; circular sensitivity uses earliest age session,0.475
+pref_phase,M,84,61,-0.01375652291767588,0.010729998632605741,0.07844868868871202,0.103,straight line is descriptive on 0–24 scale; circular sensitivity uses earliest age session,0.412

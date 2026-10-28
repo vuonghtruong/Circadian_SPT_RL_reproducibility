@@ -1,0 +1,26 @@
+cohort,metric,n,mean_phase_h,resultant_R
+all selected phase models,reward_peak_center_h,123,21.03737756870995,0.03225595754932722
+all selected phase models,beta_maximum_center_h,107,20.607588000133784,0.05960496058351617
+all selected phase models,predicted_preference_phase_h,136,19.501875743866545,0.319106103779012
+all selected phase models,observed_total_phase_h,136,18.040060458936175,0.5231506228241489
+all selected phase models,observed_preference_phase_h,136,19.42632180277291,0.36444666773323636
+exclude unresolved PA,reward_peak_center_h,99,18.524650787197473,0.014369833892284507
+exclude unresolved PA,beta_maximum_center_h,85,19.779502345424834,0.09037562906594604
+exclude unresolved PA,predicted_preference_phase_h,109,19.15448599825047,0.36170718596025414
+exclude unresolved PA,observed_total_phase_h,109,17.83431224400199,0.45326059493896403
+exclude unresolved PA,observed_preference_phase_h,109,19.06692678439897,0.4054670081536665
+exclude day-dominant,reward_peak_center_h,98,19.351297581119002,0.09372206657105077
+exclude day-dominant,beta_maximum_center_h,88,3.197591247546472,0.019641454701776646
+exclude day-dominant,predicted_preference_phase_h,108,19.215933354453778,0.3552434257590643
+exclude day-dominant,observed_total_phase_h,108,18.457715255660403,0.820484316536116
+exclude day-dominant,observed_preference_phase_h,108,19.469720839251888,0.4140558108591241
+standard LD/reference only,reward_peak_center_h,63,4.412678708333434,0.08321062154745254
+standard LD/reference only,beta_maximum_center_h,54,18.624180448927987,0.22954899450054198
+standard LD/reference only,predicted_preference_phase_h,69,19.096253533760805,0.47049847819000845
+standard LD/reference only,observed_total_phase_h,69,17.05047340905749,0.41363484621034174
+standard LD/reference only,observed_preference_phase_h,69,19.10385878649899,0.4921126398078375
+DD reference only,reward_peak_center_h,36,16.852961671374118,0.18044491273350186
+DD reference only,beta_maximum_center_h,31,5.002642110791585,0.17921151942546615
+DD reference only,predicted_preference_phase_h,40,19.425428151416025,0.17457551803957003
+DD reference only,observed_total_phase_h,40,18.84504523649261,0.5559351806881336
+DD reference only,observed_preference_phase_h,40,18.944524885971205,0.2561744898940117

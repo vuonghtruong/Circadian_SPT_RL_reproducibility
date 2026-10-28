@@ -1,0 +1,41 @@
+analysis,model,n,n_animals
+All eligible,random,0,140
+All eligible,bias,3,140
+All eligible,simple,0,140
+All eligible,reward,16,140
+All eligible,full,73,140
+All eligible,simple_no_swap,1,140
+All eligible,reward_no_swap,10,140
+All eligible,full_no_swap,37,140
+Exclude standard-LD day-dominant,random,0,121
+Exclude standard-LD day-dominant,bias,3,121
+Exclude standard-LD day-dominant,simple,0,121
+Exclude standard-LD day-dominant,reward,10,121
+Exclude standard-LD day-dominant,full,63,121
+Exclude standard-LD day-dominant,simple_no_swap,1,121
+Exclude standard-LD day-dominant,reward_no_swap,10,121
+Exclude standard-LD day-dominant,full_no_swap,34,121
+Exclude all day-dominant,random,0,112
+Exclude all day-dominant,bias,3,112
+Exclude all day-dominant,simple,0,112
+Exclude all day-dominant,reward,8,112
+Exclude all day-dominant,full,60,112
+Exclude all day-dominant,simple_no_swap,1,112
+Exclude all day-dominant,reward_no_swap,9,112
+Exclude all day-dominant,full_no_swap,31,112
+Exclude day fraction >=60%,random,0,134
+Exclude day fraction >=60%,bias,3,134
+Exclude day fraction >=60%,simple,0,134
+Exclude day fraction >=60%,reward,16,134
+Exclude day fraction >=60%,full,68,134
+Exclude day fraction >=60%,simple_no_swap,1,134
+Exclude day fraction >=60%,reward_no_swap,10,134
+Exclude day fraction >=60%,full_no_swap,36,134
+Exclude unresolved schedules,random,0,113
+Exclude unresolved schedules,bias,3,113
+Exclude unresolved schedules,simple,0,113
+Exclude unresolved schedules,reward,13,113
+Exclude unresolved schedules,full,55,113
+Exclude unresolved schedules,simple_no_swap,1,113
+Exclude unresolved schedules,reward_no_swap,8,113
+Exclude unresolved schedules,full_no_swap,33,113

@@ -1,0 +1,17 @@
+# Generated local artifacts
+__pycache__/
+*.py[cod]
+*.nbc
+*.nbi
+.cache/
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+audit/
+reports/
+verification/
+recomputed*/
+figures/*.png
+figures/*.svg
+figures/*.tif

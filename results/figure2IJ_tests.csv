@@ -1,0 +1,7 @@
+metric,reference,condition,n_reference,n_condition,n_shared_animals,n_reference_only,n_condition_only,vector_difference,p,test,q_bh
+total_phase,Control,PA,113,35,8,105,27,0.25419210886891774,0.1294,partially paired label permutation: within-animal swaps plus unpaired label shuffles; phase/concentration jointly,0.18252000000000002
+total_phase,Control,RF-morning,113,10,5,108,5,1.2248898572558238,0.0002,partially paired label permutation: within-animal swaps plus unpaired label shuffles; phase/concentration jointly,0.0006000000000000001
+total_phase,Control,RF-afternoon,113,10,5,108,5,1.0825194174220907,0.0002,partially paired label permutation: within-animal swaps plus unpaired label shuffles; phase/concentration jointly,0.0006000000000000001
+pref_phase,Control,PA,113,35,8,105,27,0.2558596909509127,0.1521,partially paired label permutation: within-animal swaps plus unpaired label shuffles; phase/concentration jointly,0.18252000000000002
+pref_phase,Control,RF-morning,113,10,5,108,5,0.28243413056261907,0.4537,partially paired label permutation: within-animal swaps plus unpaired label shuffles; phase/concentration jointly,0.4537
+pref_phase,Control,RF-afternoon,113,10,5,108,5,0.5681941846904515,0.0129,partially paired label permutation: within-animal swaps plus unpaired label shuffles; phase/concentration jointly,0.0258

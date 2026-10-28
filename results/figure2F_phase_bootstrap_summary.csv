@@ -1,0 +1,4 @@
+metric,estimate,ci_low,ci_high,n_animals,n_sessions,bootstrap_repeats,method
+intake_R,0.48819512078688737,0.3903102319309052,0.5916512596700266,113,152,5000,paired animal-cluster bootstrap; one mean session phasor per animal; percentile 95% interval
+preference_R,0.40214289101584905,0.30036978380417995,0.5058601122494989,113,152,5000,paired animal-cluster bootstrap; one mean session phasor per animal; percentile 95% interval
+difference_R_intake_minus_preference,0.08605222977103832,-0.04724520932469629,0.2206356319269429,113,152,5000,paired animal-cluster bootstrap; one mean session phasor per animal; percentile 95% interval

@@ -1,0 +1,30 @@
+table,comparison,p,previous_Holm,q_BH,previous_significant,BH_significant
+figure1B_tests,fluid=glucose,0.0108475991170923,0.0171700891850815,0.0108475991170923,True,True
+figure1B_tests,fluid=saccharin,2.40643914336094e-33,9.62575657344376e-33,9.62575657344376e-33,True,True
+figure1B_tests,fluid=sucrose,3.839957615179277e-09,1.151987284553783e-08,7.679915230358554e-09,True,True
+figure1B_tests,fluid=water,0.0085850445925407,0.0171700891850815,0.0108475991170923,True,True
+figure1B_vs_water_tests,fluid=glucose,0.0040825295206921,0.0040825295206921,0.0040825295206921,True,True
+figure1B_vs_water_tests,fluid=sucrose,5.0210804464220975e-05,0.0001004216089284,7.531620669633147e-05,True,True
+figure1B_vs_water_tests,fluid=saccharin,6.006091922958095e-21,1.801827576887403e-20,1.8018275768874282e-20,True,True
+figure2C_tests,metric=total_g,4.203937003625872e-07,8.407874007251744e-07,5.60524933816783e-07,True,True
+figure2C_tests,metric=preference,1.0132301530642092e-11,3.0396904591926274e-11,2.0264603061284184e-11,True,True
+figure2C_tests,metric=reward_g,5.542845808612294e-13,2.2171383234449176e-12,2.2171383234449176e-12,True,True
+figure2C_tests,metric=water_g,0.0344479442734325,0.0344479442734325,0.0344479442734325,True,True
+figure2DE_tests,metric=total_phase; Sex=F,0.26,0.78,0.4646666666666666,False,False
+figure2DE_tests,metric=total_phase; Sex=M,0.3485,0.78,0.4646666666666666,False,False
+figure2DE_tests,metric=pref_phase; Sex=F,0.475,0.78,0.475,False,False
+figure2DE_tests,metric=pref_phase; Sex=M,0.103,0.412,0.412,False,False
+figure2IJ_tests,metric=total_phase; condition=PA,0.1294,0.3882,0.18252,False,False
+figure2IJ_tests,metric=total_phase; condition=RF-morning,0.0002,0.0012,0.0006,True,True
+figure2IJ_tests,metric=total_phase; condition=RF-afternoon,0.0002,0.0012,0.0006,True,True
+figure2IJ_tests,metric=pref_phase; condition=PA,0.1521,0.3882,0.18252,False,False
+figure2IJ_tests,metric=pref_phase; condition=RF-morning,0.4537,0.4537,0.4537,False,False
+figure2IJ_tests,metric=pref_phase; condition=RF-afternoon,0.0129,0.0516,0.0258,False,True
+figure3A_tests,model=bias,0.3857589320427111,0.3857589320427111,0.3857589320427111,False,False
+figure3A_tests,model=full,3.526538925974624e-51,1.763269462987312e-50,1.763269462987312e-50,True,True
+figure3A_tests,model=random,0.1077830077071164,0.2155660154142329,0.1347287596338955,False,False
+figure3A_tests,model=reward,5.231192876880733e-45,2.092477150752293e-44,1.307798219220183e-44,True,True
+figure3A_tests,model=simple,2.507068636059466e-38,7.521205908178398e-38,4.178447726765777e-38,True,True
+figure2F_paired_lag_summary,scope=Control_age_all,0.2385761423857614,0.7157284271572842,0.4214578542145785,False,False
+figure2F_paired_lag_summary,scope=Control_age_F,0.3984601539846015,0.7969203079692031,0.4214578542145785,False,False
+figure2F_paired_lag_summary,scope=Control_age_M,0.4214578542145785,0.7969203079692031,0.4214578542145785,False,False

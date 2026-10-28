@@ -1,0 +1,36 @@
+{
+  "seed": 20261027,
+  "bootstrap_repeats": 10000,
+  "primary_n_animals": 113,
+  "primary_n_sessions": 152,
+  "positive_lag": "preference later than total intake",
+  "phase_definition": "wrap(preference acrophase - intake acrophase) in [-12,12) hours",
+  "cross_correlation_definition": "Pearson r(total[t],preference[t+lag]); periodic8bin profiles; positive lag preference follows intake",
+  "cross_correlation_resolution_h": 3,
+  "xcorr_excluded_sessions": [
+    {
+      "MouseID": "NL5_20200421 - sucrose preference test old VB DD SPT.xlsx",
+      "reason": "incomplete or constant 8-bin profile"
+    },
+    {
+      "MouseID": "NL8_20200421 - sucrose preference test old VB DD SPT.xlsx",
+      "reason": "incomplete or constant 8-bin profile"
+    },
+    {
+      "MouseID": "NR10_20200421 - sucrose preference test AB DD .xlsx",
+      "reason": "incomplete or constant 8-bin profile"
+    }
+  ],
+  "independent_phase_reconstruction_max_error_h": 3.552713678800501e-15,
+  "independent_pearson_calculation_check": true,
+  "synthetic_positive_lag_check": true,
+  "repeated_session_weight_check": true,
+  "bootstrap_scope": "animal sampling conditional on estimated session phases; does not propagate full cosinor parameter uncertainty",
+  "limitations": [
+    "one24h cycle does not establish endogenous period",
+    "weak harmonics yield uncertain acrophases",
+    "circular profile correlation assumes periodic continuation",
+    "preference contains total intake in its denominator",
+    "exploratory replacement of previous panel F; original phase-concentration results retained"
+  ]
+}

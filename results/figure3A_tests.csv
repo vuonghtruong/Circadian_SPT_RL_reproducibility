@@ -1,0 +1,6 @@
+model,n_runs,t,p,night_minus_day,test,q_bh
+bias,50,-0.8751556920019213,0.3857589320427111,0.0038499999999999823,paired simulated runs; no empirical animal inference,0.3857589320427111
+full,50,-71.35287974868662,3.526538925974624e-51,0.276225,paired simulated runs; no empirical animal inference,1.763269462987312e-50
+random,50,1.6382164993111168,0.10778300770711645,-0.008475000000000012,paired simulated runs; no empirical animal inference,0.13472875963389555
+reward,50,-53.19263235233471,5.2311928768807324e-45,0.278175,paired simulated runs; no empirical animal inference,1.307798219220183e-44
+simple,50,-38.5718148229267,2.507068636059466e-38,0.165275,paired simulated runs; no empirical animal inference,4.178447726765777e-38
